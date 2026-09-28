@@ -106,23 +106,23 @@ data "aws_iam_policy_document" "github_actions_permissions" {
     sid    = "ManageProjectS3Buckets"
     effect = "Allow"
     actions = [
-  "s3:CreateBucket",
-  "s3:DeleteBucket",
-  "s3:GetBucketVersioning",
-  "s3:PutBucketVersioning",
-  "s3:GetEncryptionConfiguration",
-  "s3:PutEncryptionConfiguration",
-  "s3:GetBucketPublicAccessBlock",
-  "s3:PutBucketPublicAccessBlock",
-  "s3:GetBucketTagging",
-  "s3:PutBucketTagging",
-  "s3:GetBucketPolicy",
-  "s3:GetBucketAcl",
-  "s3:ListBucket",
-  "s3:GetObject",
-  "s3:PutObject",
-  "s3:DeleteObject",
-]
+      "s3:CreateBucket",
+      "s3:DeleteBucket",
+      "s3:GetBucketVersioning",
+      "s3:PutBucketVersioning",
+      "s3:GetEncryptionConfiguration",
+      "s3:PutEncryptionConfiguration",
+      "s3:GetBucketPublicAccessBlock",
+      "s3:PutBucketPublicAccessBlock",
+      "s3:GetBucketTagging",
+      "s3:PutBucketTagging",
+      "s3:GetBucketPolicy",
+      "s3:GetBucketAcl",
+      "s3:ListBucket",
+      "s3:GetObject",
+      "s3:PutObject",
+      "s3:DeleteObject",
+    ]
     resources = [
       "arn:aws:s3:::zaki-pipeline-iac-*",
       "arn:aws:s3:::zaki-pipeline-iac-*/*",
@@ -133,24 +133,24 @@ data "aws_iam_policy_document" "github_actions_permissions" {
     sid    = "ManageGlueResources"
     effect = "Allow"
     actions = [
-  "glue:CreateJob",
-  "glue:GetJob",
-  "glue:GetJobs",
-  "glue:UpdateJob",
-  "glue:DeleteJob",
-  "glue:CreateCrawler",
-  "glue:GetCrawler",
-  "glue:GetCrawlers",
-  "glue:UpdateCrawler",
-  "glue:DeleteCrawler",
-  "glue:CreateDatabase",
-  "glue:GetDatabase",
-  "glue:UpdateDatabase",
-  "glue:DeleteDatabase",
-  "glue:TagResource",
-  "glue:UntagResource",
-  "glue:GetTags",
-]
+      "glue:CreateJob",
+      "glue:GetJob",
+      "glue:GetJobs",
+      "glue:UpdateJob",
+      "glue:DeleteJob",
+      "glue:CreateCrawler",
+      "glue:GetCrawler",
+      "glue:GetCrawlers",
+      "glue:UpdateCrawler",
+      "glue:DeleteCrawler",
+      "glue:CreateDatabase",
+      "glue:GetDatabase",
+      "glue:UpdateDatabase",
+      "glue:DeleteDatabase",
+      "glue:TagResource",
+      "glue:UntagResource",
+      "glue:GetTags",
+    ]
     resources = ["*"]
   }
 
@@ -178,17 +178,17 @@ data "aws_iam_policy_document" "github_actions_permissions" {
     sid    = "ManageSNSTopics"
     effect = "Allow"
     actions = [
-  "sns:CreateTopic",
-  "sns:DeleteTopic",
-  "sns:GetTopicAttributes",
-  "sns:SetTopicAttributes",
-  "sns:Subscribe",
-  "sns:Unsubscribe",
-  "sns:ListSubscriptionsByTopic",
-  "sns:TagResource",
-  "sns:ListTagsForResource",
-  "sns:GetSubscriptionAttributes",
-]
+      "sns:CreateTopic",
+      "sns:DeleteTopic",
+      "sns:GetTopicAttributes",
+      "sns:SetTopicAttributes",
+      "sns:Subscribe",
+      "sns:Unsubscribe",
+      "sns:ListSubscriptionsByTopic",
+      "sns:TagResource",
+      "sns:ListTagsForResource",
+      "sns:GetSubscriptionAttributes",
+    ]
     resources = ["arn:aws:sns:eu-west-2:${data.aws_caller_identity.current.account_id}:zaki-pipeline-iac-*"]
   }
 }
