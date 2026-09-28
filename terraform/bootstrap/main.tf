@@ -117,6 +117,7 @@ data "aws_iam_policy_document" "github_actions_permissions" {
   "s3:GetBucketTagging",
   "s3:PutBucketTagging",
   "s3:GetBucketPolicy",
+  "s3:GetBucketAcl",
   "s3:ListBucket",
   "s3:GetObject",
   "s3:PutObject",
@@ -186,6 +187,7 @@ data "aws_iam_policy_document" "github_actions_permissions" {
   "sns:ListSubscriptionsByTopic",
   "sns:TagResource",
   "sns:ListTagsForResource",
+  "sns:GetSubscriptionAttributes",
 ]
     resources = ["arn:aws:sns:eu-west-2:${data.aws_caller_identity.current.account_id}:zaki-pipeline-iac-*"]
   }
