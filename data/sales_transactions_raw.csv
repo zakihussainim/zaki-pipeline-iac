@@ -1,0 +1,816 @@
+order_id,order_date,customer_id,customer_name,product_sku,product_name,category,supplier,lead_time_days,region,quantity,unit_price,currency
+ORD-00791,2026-09-08,CUST-0002,Moore-Evans,SKU-3004,Corrugated Box (Small),Packaging,ToolForge Ltd,24,UK,35,217.62,GBP
+ORD-00708,2026-09-21,CUST-0233,Dawson-Barton,SKU-9971,Cyanoacrylate Glue,Adhesives,CircuitSource UK,3,US,322,175.86,USD
+ORD-00094,2026-02-05,CUST-0121,"Rogers, Hall and Morris",SKU-5708,Double-Sided Tape,Adhesives,CircuitSource UK,7,UK,223,244.59,GBP
+ORD-00318,2026-01-12,CUST-0034,"Humphries, Griffiths and Miller",SKU-4239,Digital Caliper,Tooling,AdhesiCo,10,UK,48,226.28,GBP
+ORD-00381,2026-07-29,CUST-0152,Clements Ltd,SKU-3627,Torque Wrench,Tooling,Bolt Supplies Ltd,37,US,255,227.6,USD
+ORD-00427,2026-09-06,CUST-0231,Griffiths-Walker,SKU-6379,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,44,US,157,173.4,USD
+ORD-00469,2026-09-23,CUST-0236,Sullivan-Brooks,SKU-6171,USB-C Connector,Electronics,Bolt Supplies Ltd,2,UK,346,52.77,GBP
+ORD-00333,2026-02-15,CUST-0172,Richards-Hodgson,SKU-8317,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,18,EU,108,62.46,EUR
+ORD-00682,2026-04-13,CUST-0095,Craig and Sons,SKU-6759,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,7,UK,75,211.48,GBP
+ORD-00214,2026-09-24,CUST-0227,"Mason, Davies and Richards",SKU-2904,10k Resistor,Electronics,CircuitSource UK,39,US,251,22.83,USD
+ORD-00562,2026-04-14,CUST-0145,"Daly, Khan and Hawkins",SKU-5168,10k Resistor,Electronics,Bolt Supplies Ltd,21,EU,154,126.72,EUR
+ORD-00139,2026-07-16,CUST-0237,"Jackson, White and Law",SKU-1672,Allen Key Set,Tooling,AdhesiCo,38,EU,334,47.14,EUR
+ORD-00512,2026-07-31,CUST-0221,Watson Ltd,SKU-6299,Digital Caliper,Tooling,ToolForge Ltd,17,US,289,136.45,USD
+ORD-00269,2026-02-13,CUST-0069,Thompson Inc,SKU-6131,Pallet Wrap,Packaging,Bolt Supplies Ltd,17,EU,157,29.33,EUR
+ORD-00788,2026-04-19,CUST-0234,Frost and Sons,SKU-8755,Allen Key Set,Tooling,Bolt Supplies Ltd,12,UK,484,139.8,GBP
+ORD-00366,2026-02-19,CUST-0242,Mitchell and Sons,SKU-3096,Torque Wrench,Tooling,PackRight Ltd,37,US,391,228.16,USD
+ORD-00345,2026-09-22,CUST-0293,"Elliott, Turner and Roberts",SKU-3415,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,30,EU,89,237.27,EUR
+ORD-00656,2026-05-27,CUST-0094,Jones-Williams,SKU-3873,PCB Relay,Electronics,CircuitSource UK,12,EU,122,29.32,EUR
+ORD-00448,2026-07-15,CUST-0180,"Parker, Khan and O'Neill",SKU-2600,Epoxy Resin 50ml,Adhesives,AdhesiCo,10,US,131,119.34,USD
+ORD-00700,2026-01-14,CUST-0175,Jones Group,SKU-7235,Pallet Wrap,Packaging,Bolt Supplies Ltd,29,EU,177,247.99,EUR
+ORD-00262,2026-03-01,CUST-0073,Marshall LLC,SKU-6707,Bubble Wrap Roll,Packaging,PackRight Ltd,23,UK,234,196.09,GBP
+ORD-00623,2026-06-07,CUST-0050,"Hill, Phillips and Richardson",SKU-8474,PCB Relay,Electronics,ToolForge Ltd,12,UK,428,147.8,GBP
+ORD-00674,2026-09-21,CUST-0100,"Hammond, Thomas and Norris",SKU-4002,Allen Key Set,Tooling,Bolt Supplies Ltd,40,UK,386,41.87,GBP
+ORD-00341,2026-08-30,CUST-0251,"Chapman, Welch and Davies",SKU-5341,M8 Washer,Fasteners,Bolt Supplies Ltd,43,US,279,96.94,USD
+ORD-00657,2026-05-14,CUST-0190,"Harrison, Morgan and Jordan",SKU-4022,Torque Wrench,Tooling,CircuitSource UK,37,US,363,8.77,USD
+ORD-00726,2026-07-30,CUST-0164,Knight Group,SKU-8397,PCB Relay,Electronics,AdhesiCo,10,EU,134,43.45,EUR
+ORD-00633,2026-01-27,CUST-0276,Smith Ltd,SKU-3881,Epoxy Resin 50ml,Adhesives,CircuitSource UK,3,UK,249,128.77,GBP
+ORD-00164,2026-09-12,CUST-0255,Shah-Patel,SKU-7018,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,19,UK,411,20.74,GBP
+ORD-00535,2026-03-09,CUST-0106,Martin Inc,SKU-3270,Digital Caliper,Tooling,ToolForge Ltd,36,US,351,200.05,USD
+ORD-00373,2026-04-08,CUST-0010,"Thomas, Davies and Kennedy",SKU-1067,Corrugated Box (Small),Packaging,CircuitSource UK,16,US,356,219.26,USD
+ORD-00666,2026-03-13,CUST-0045,"Robertson, James and Palmer",SKU-3353,Double-Sided Tape,Adhesives,CircuitSource UK,21,US,244,247.1,USD
+ORD-00760,2026-06-04,CUST-0238,Wright-Miller,SKU-3427,Torque Wrench,Tooling,AdhesiCo,29,UK,12,29.2,GBP
+ORD-00686,2026-07-28,CUST-0058,"Thomson, Carter and Jones",SKU-6149,PCB Relay,Electronics,Bolt Supplies Ltd,31,UK,57,129.98,GBP
+ORD-00589,2026-08-10,CUST-0202,Khan LLC,SKU-6212,Corrugated Box (Small),Packaging,AdhesiCo,27,UK,196,108.85,GBP
+ORD-00565,2026-07-31,CUST-0029,Ball-Khan,SKU-9537,Digital Caliper,Tooling,PackRight Ltd,38,US,372,169.58,USD
+ORD-00749,2026-08-17,CUST-0199,"Wilson, Hayes and Jones",SKU-8805,Torque Wrench,Tooling,PackRight Ltd,38,US,308,105.83,USD
+ORD-00459,2026-05-26,CUST-0287,Bell-Wilkins,SKU-6703,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,19,EU,116,151.63,EUR
+ORD-00502,2026-03-24,CUST-0036,"Lawson, Newton and Hart",SKU-9702,Cyanoacrylate Glue,Adhesives,CircuitSource UK,30,EU,152,204.87,EUR
+ORD-00796,2026-09-01,CUST-0258,"Palmer, McDonald and Patel",SKU-1305,Allen Key Set,Tooling,Bolt Supplies Ltd,44,UK,480,133.01,GBP
+ORD-00334,2026-01-01,CUST-0025,"Carpenter, Harding and Hughes",SKU-7323,Corrugated Box (Small),Packaging,AdhesiCo,28,EU,497,41.67,EUR
+ORD-00398,2026-01-24,CUST-0064,Hughes-Duncan,SKU-8381,Corrugated Box (Small),Packaging,AdhesiCo,44,US,302,239.05,USD
+ORD-00752,2026-06-03,CUST-0128,Davies Ltd,SKU-9570,10k Resistor,Electronics,AdhesiCo,20,EU,292,12.03,EUR
+ORD-00487,2026-01-04,CUST-0281,Mason Group,SKU-7121,Pallet Wrap,Packaging,CircuitSource UK,28,UK,452,140.18,GBP
+ORD-00242,2026-09-01,CUST-0139,Williams-Wilson,SKU-1762,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,45,UK,474,70.17,GBP
+ORD-00055,28/08/2026,CUST-0066,Adams Ltd,SKU-9751,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,27,UK,304,141.14,GBP
+ORD-00066,2026-09-22,CUST-0098,Thomas LLC,SKU-2402,Pallet Wrap,Packaging,CircuitSource UK,28,UK,251,138.84,GBP
+ORD-00769,2026-01-17,CUST-0033,Hutchinson-Davies,SKU-6533,10k Resistor,Electronics,AdhesiCo,9,EU,317,56.75,EUR
+ORD-00153,2026-07-17,CUST-0042,Parry-Atkinson,SKU-7142,Digital Caliper,Tooling,CircuitSource UK,3,UK,164,232.71,GBP
+ORD-00188,2026-05-24,CUST-0061,"Smith, Lane and McDonald",SKU-3108,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,27,US,192,198.74,USD
+ORD-00659,2026-06-13,CUST-0080,"Cooper, Smith and Singh",SKU-1070,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,34,US,170,161.85,USD
+ORD-00500,2026-08-13,CUST-0099,Wilkinson-Webster,SKU-1349,Allen Key Set,Tooling,AdhesiCo,24,US,371,33.77,USD
+ORD-00207,2026-06-22,CUST-0152,"White, John and Oliver",SKU-4164,10k Resistor,Electronics,CircuitSource UK,41,EU,439,159.72,EUR
+ORD-00212,2026-08-30,CUST-0276,Jones Ltd,SKU-4578,Digital Caliper,Tooling,CircuitSource UK,45,US,387,148.99,USD
+ORD-00167,2026-07-27,CUST-0187,Foster-Pearce,SKU-9406,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,3,EU,74,212.18,EUR
+ORD-00225,2026-08-07,CUST-0285,"Williams, Kent and Roberts",SKU-9120,PCB Relay,Electronics,Bolt Supplies Ltd,24,EU,483,160.86,EUR
+ORD-00561,2026-03-02,CUST-0107,Martin LLC,SKU-7793,"M6 Bolt, Stainless",Fasteners,AdhesiCo,4,US,171,87.48,USD
+ORD-00014,2026-06-15,CUST-0251,Nelson-Mason,SKU-1319,Allen Key Set,Tooling,Bolt Supplies Ltd,25,UK,450,246.33,GBP
+ORD-00532,2026-07-21,CUST-0081,Hill-Ball,SKU-1301,Bubble Wrap Roll,Packaging,PackRight Ltd,45,US,181,88.91,USD
+ORD-00753,2026-09-19,CUST-0218,Jones Inc,SKU-7766,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,31,UK,339,180.11,GBP
+ORD-00082,2026-07-30,CUST-0254,"Newton, Lewis and Evans",SKU-5722,"M6 Bolt, Stainless",Fasteners,AdhesiCo,37,US,19,113.76,USD
+ORD-00258,2026-08-18,CUST-0246,"Rogers, Thomas and Carey",SKU-7566,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,34,UK,473,230.11,GBP
+ORD-00358,2026-04-26,CUST-0106,"Webb, White and Cameron",SKU-5408,10k Resistor,Electronics,AdhesiCo,34,EU,11,216.17,EUR
+ORD-00676,2026-07-30,CUST-0175,Foster and Sons,SKU-3671,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,15,US,80,125.9,USD
+ORD-00435,2026-09-05,CUST-0184,"Morris, Kemp and Adams",SKU-1662,PCB Relay,Electronics,CircuitSource UK,33,EU,119,15.81,EUR
+ORD-00732,2026-07-29,CUST-0075,"Walsh, Cooke and Atkinson",SKU-1471,USB-C Connector,Electronics,PackRight Ltd,18,UK,121,154.46,GBP
+ORD-00790,2026-05-31,CUST-0249,"Shaw, Moss and Garner",SKU-1458,Bubble Wrap Roll,Packaging,CircuitSource UK,11,US,,147.45,USD
+ORD-00031,2026-02-24,CUST-0284,Connor Group,SKU-3546,USB-C Connector,Electronics,PackRight Ltd,20,UK,310,52.74,GBP
+ORD-00702,2026-01-11,CUST-0276,Smith Ltd,SKU-6343,M8 Washer,Fasteners,Bolt Supplies Ltd,31,UK,337,215.86,GBP
+ORD-00701,2026-05-07,CUST-0121,"Edwards, Payne and Baxter",SKU-6113,Hex Nut Pack,Fasteners,ToolForge Ltd,7,UK,467,172.03,GBP
+ORD-00509,2026-04-29,CUST-0273,"Hammond, Stephens and Richardson",SKU-7313,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,14,EU,270,164.25,EUR
+ORD-00160,2026-06-20,CUST-0069,"Brown, Morgan and Patel",SKU-1726,Hex Nut Pack,Fasteners,PackRight Ltd,36,EU,174,203.4,EUR
+ORD-00361,2026-01-04,CUST-0262,Lowe-Singh,SKU-7131,Double-Sided Tape,Adhesives,ToolForge Ltd,43,UK,305,152.3,GBP
+ORD-00283,2026-05-26,CUST-0173,"Roberts, Khan and Barker",SKU-9967,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,10,US,290,213.12,USD
+ORD-00303,2026-05-06,CUST-0024,Lee-McKenzie,SKU-8729,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,26,UK,472,37.61,GBP
+ORD-00329,2026-07-06,CUST-0038,"Coleman, Elliott and Hughes",SKU-7120,10k Resistor,Electronics,AdhesiCo,39,EU,52,84.21,EUR
+ORD-00754,2026-02-11,CUST-0258,Pickering-Stanley,SKU-1266,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,44,EU,237,44.97,EUR
+ORD-00525,2026-08-15,CUST-0075,"Saunders, Coates and Pugh",SKU-8216,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,16,US,103,171.37,USD
+ORD-00422,2026-06-01,CUST-0074,Ferguson Ltd,SKU-5883,PCB Relay,Electronics,PackRight Ltd,2,US,284,218.7,USD
+ORD-00306,2026-06-09,CUST-0168,Whitehouse-Morrison,SKU-2415,M8 Washer,Fasteners,ToolForge Ltd,31,US,5,92.29,USD
+ORD-00235,2026-09-08,CUST-0095,Lewis PLC,SKU-9882,PCB Relay,Electronics,Bolt Supplies Ltd,35,EU,18,209.78,EUR
+ORD-00295,2026-02-04,CUST-0008,Jackson-Gallagher,SKU-5295,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,4,EU,473,15.21,EUR
+ORD-00617,2026-02-16,CUST-0188,Edwards Ltd,SKU-9759,Bubble Wrap Roll,Packaging,PackRight Ltd,7,UK,431,114.96,GBP
+ORD-00413,2026-07-26,CUST-0048,Bennett Group,SKU-6724,Torque Wrench,Tooling,CircuitSource UK,15,US,340,83.04,USD
+ORD-00083,2026-09-21,CUST-0001,"Phillips, Davidson and Thompson",SKU-9889,Corrugated Box (Small),Packaging,AdhesiCo,28,US,28,46.98,USD
+ORD-00271,2026-09-08,CUST-0148,Carter-Hill,SKU-3298,PCB Relay,Electronics,CircuitSource UK,22,UK,432,112.81,GBP
+ORD-00407,2026-07-19,CUST-0122,"Lawrence, Dennis and Cross",SKU-9370,PCB Relay,Electronics,PackRight Ltd,44,EU,25,231.63,EUR
+ORD-00224,2026-09-24,CUST-0114,Little-Elliott,SKU-7775,Corrugated Box (Small),Packaging,PackRight Ltd,19,EU,32,139.22,EUR
+ORD-00124,2026-01-14,CUST-0137,Clarke-Patterson,SKU-1474,Double-Sided Tape,Adhesives,CircuitSource UK,19,EU,360,190.63,EUR
+ORD-00473,2026-04-01,CUST-0216,Marshall LLC,SKU-9185,USB-C Connector,Electronics,CircuitSource UK,42,UK,265,133.54,GBP
+ORD-00555,2026-08-02,CUST-0092,Hayes Inc,SKU-3643,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,41,UK,339,172.91,GBP
+ORD-00571,2026-06-09,CUST-0023,Johnson PLC,SKU-2426,Torque Wrench,Tooling,PackRight Ltd,31,UK,456,11.63,GBP
+ORD-00204,2026-01-20,CUST-0090,Brooks-Nash,SKU-7846,Torque Wrench,Tooling,CircuitSource UK,4,EU,429,99.31,EUR
+ORD-00729,2026-08-08,CUST-0134,Ryan Ltd,SKU-3445,M8 Washer,Fasteners,Bolt Supplies Ltd,25,EU,88,236.82,EUR
+ORD-00560,2026-09-12,CUST-0253,"Cox, Martin and Smith",SKU-3947,Double-Sided Tape,Adhesives,ToolForge Ltd,16,EU,363,72.69,EUR
+ORD-00735,2026-01-24,CUST-0003,Poole LLC,SKU-5155,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,41,EU,196,75.7,EUR
+ORD-00482,07/05/2026,CUST-0146,Johnson-Sharp,SKU-8260,Cyanoacrylate Glue,Adhesives,CircuitSource UK,10,UK,270,209.65,GBP
+ORD-00404,2026-08-02,CUST-0274,Walker-Fox,SKU-5684,Digital Caliper,Tooling,AdhesiCo,2,EU,268,26.71,EUR
+ORD-00719,2026-07-05,CUST-0244,Morgan-Holt,SKU-7025,USB-C Connector,Electronics,PackRight Ltd,3,UK,331,241.7,GBP
+ORD-00734,2026-08-05,CUST-0132,Robinson-Day,SKU-2196,PCB Relay,Electronics,Bolt Supplies Ltd,37,US,31,13.12,USD
+ORD-00619,2026-08-13,CUST-0098,"Owen, Doyle and Bates",SKU-3292,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,14,EU,13,179.96,EUR
+ORD-00767,2026-04-17,CUST-0145,Davis Group,SKU-2412,Bubble Wrap Roll,Packaging,AdhesiCo,10,UK,89,49.95,GBP
+ORD-00124,2026-01-14,CUST-0137,Clarke-Patterson,SKU-1474,Double-Sided Tape,Adhesives,CircuitSource UK,19,EU,360,190.63,EUR
+ORD-00696,2026-01-17,CUST-0221,"Palmer, Dawson and Rahman",SKU-2951,Allen Key Set,Tooling,AdhesiCo,30,UK,162,213.23,GBP
+ORD-00236,2026-03-12,CUST-0119,Young LLC,SKU-2113,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,2,US,112,126.48,USD
+ORD-00221,2026-08-03,CUST-0009,"Evans, Glover and Vincent",SKU-4943,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,6,EU,52,148.53,EUR
+ORD-00286,2026-06-06,CUST-0120,"Evans, Jones and Adams",SKU-8032,10k Resistor,Electronics,Bolt Supplies Ltd,8,US,1,53.43,USD
+ORD-00357,29/06/2026,CUST-0177,"Forster, Wood and Kent",SKU-3679,Epoxy Resin 50ml,Adhesives,PackRight Ltd,7,US,146,6.96,USD
+ORD-00646,2026-07-07,CUST-0239,"Metcalfe, Griffiths and Brooks",SKU-1669,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,25,US,90,162.08,USD
+ORD-00076,2026-08-29,CUST-0150,Atkinson Ltd,SKU-1534,M8 Washer,Fasteners,CircuitSource UK,20,US,362,70.75,USD
+ORD-00527,2026-06-19,CUST-0108,Jackson Ltd,SKU-9814,Cyanoacrylate Glue,Adhesives,CircuitSource UK,15,UK,280,130.86,GBP
+ORD-00382,2026-01-02,CUST-0007,Green Group,SKU-2458,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,38,UK,343,123.58,GBP
+ORD-00161,2026-04-04,CUST-0070,Fowler-Hart,SKU-2033,Double-Sided Tape,Adhesives,AdhesiCo,4,US,151,50.48,USD
+ORD-00680,27/02/2026,CUST-0040,"Rees, Brown and Finch",SKU-1308,M8 Washer,Fasteners,AdhesiCo,29,EU,22,49.17,EUR
+ORD-00272,2026-03-11,CUST-0100,Cartwright Group,SKU-7290,Corrugated Box (Small),Packaging,ToolForge Ltd,34,US,335,123.79,USD
+ORD-00608,2026-09-26,CUST-0054,"Berry, Birch and Griffin",SKU-8306,M8 Washer,Fasteners,PackRight Ltd,16,UK,372,70.9,GBP
+ORD-00637,2026-03-07,CUST-0017,Cooper Ltd,SKU-1977,Corrugated Box (Small),Packaging,PackRight Ltd,10,US,57,212.93,USD
+ORD-00559,2026-06-12,CUST-0133,Taylor Inc,SKU-9608,Bubble Wrap Roll,Packaging,ToolForge Ltd,41,EU,182,231.78,EUR
+ORD-00581,2026-03-07,CUST-0261,Murphy-Wright,SKU-2686,Pallet Wrap,Packaging,AdhesiCo,8,EU,167,139.08,EUR
+ORD-00304,2026-08-03,CUST-0115,Clements and Sons,SKU-6272,Hex Nut Pack,Fasteners,CircuitSource UK,28,EU,469,180.1,EUR
+ORD-00278,2026-05-24,CUST-0276,"Bolton, Patel and Dodd",SKU-3758,Hex Nut Pack,Fasteners,PackRight Ltd,20,US,149,143.23,USD
+ORD-00737,2026-06-12,CUST-0272,Henderson Group,SKU-8093,Epoxy Resin 50ml,Adhesives,CircuitSource UK,18,UK,60,78.39,GBP
+ORD-00446,2026-02-19,CUST-0091,Clark LLC,SKU-8796,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,40,EU,20,219.45,EUR
+ORD-00158,2026-02-04,CUST-0270,Whitehead-Patel,SKU-9914,Hex Nut Pack,Fasteners,ToolForge Ltd,34,US,284,5.18,USD
+ORD-00538,2026-05-21,CUST-0078,Booth Inc,SKU-4079,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,10,US,95,6.65,USD
+ORD-00710,2026-08-25,CUST-0076,Murray-Williams,SKU-4938,Torque Wrench,Tooling,CircuitSource UK,45,US,392,75.14,USD
+ORD-00264,2026-03-26,CUST-0125,Burns Group,SKU-9454,Pallet Wrap,Packaging,CircuitSource UK,37,UK,82,82.81,GBP
+ORD-00050,2026-05-07,CUST-0142,Wilson-Akhtar,SKU-9540,Cyanoacrylate Glue,Adhesives,AdhesiCo,42,US,123,68.72,USD
+ORD-00208,2026-02-14,CUST-0206,Holmes and Sons,SKU-2562,Double-Sided Tape,Adhesives,CircuitSource UK,10,US,245,80.97,USD
+ORD-00393,2026-01-10,CUST-0053,"Hall, Brooks and Wilson",SKU-7609,M8 Washer,Fasteners,AdhesiCo,4,EU,286,137.32,EUR
+ORD-00498,2026-09-01,CUST-0080,Mahmood-Middleton,SKU-7084,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,17,EU,81,125.03,EUR
+ORD-00504,2026-07-18,CUST-0098,"Morrison, Foster and Cross",SKU-9586,Pallet Wrap,Packaging,AdhesiCo,37,UK,79,153.3,GBP
+ORD-00592,2026-08-22,CUST-0218,Parsons Ltd,SKU-3945,PCB Relay,Electronics,AdhesiCo,34,US,218,138.06,USD
+ORD-00332,2026-06-12,CUST-0114,Chapman-Birch,SKU-2705,Torque Wrench,Tooling,AdhesiCo,11,UK,170,186.36,GBP
+ORD-00267,2026-04-11,CUST-0235,Griffiths-Hancock,SKU-2867,USB-C Connector,Electronics,PackRight Ltd,44,US,442,122.42,USD
+ORD-00442,2026-03-17,CUST-0029,Morton-Moss,SKU-3725,Torque Wrench,Tooling,PackRight Ltd,13,EU,265,239.56,EUR
+ORD-00187,2026-01-24,CUST-0206,"Waters, Edwards and Walker",SKU-1838,Bubble Wrap Roll,Packaging,ToolForge Ltd,37,US,100,90.69,USD
+ORD-00159,2026-07-11,CUST-0130,Hussain Group,SKU-1266,Hex Nut Pack,Fasteners,PackRight Ltd,6,US,177,60.36,USD
+ORD-00607,2026-04-10,CUST-0267,,SKU-6528,PCB Relay,Electronics,CircuitSource UK,22,EU,281,2.74,EUR
+ORD-00798,2026-04-03,CUST-0213,Smith PLC,SKU-1394,M8 Washer,Fasteners,ToolForge Ltd,22,US,196,64.37,USD
+ORD-00246,2026-07-12,CUST-0222,Thomas LLC,SKU-4043,USB-C Connector,Electronics,ToolForge Ltd,44,EU,195,21.51,EUR
+ORD-00015,2026-02-10,CUST-0044,"Kelly, West and Phillips",SKU-8962,10k Resistor,Electronics,Bolt Supplies Ltd,36,UK,393,31.53,GBP
+ORD-00274,2026-05-28,CUST-0087,"Black, Smith and Foster",SKU-8492,Corrugated Box (Small),Packaging,ToolForge Ltd,33,EU,282,127.75,EUR
+ORD-00511,2026-09-16,CUST-0173,"Williams, Noble and Cross",SKU-3591,PCB Relay,Electronics,ToolForge Ltd,40,US,227,233.39,USD
+ORD-00775,2026-08-23,CUST-0265,Noble-Fraser,SKU-6927,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,30,US,75,192.56,USD
+ORD-00503,2026-09-17,CUST-0195,Heath-Pollard,SKU-4039,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,41,EU,439,91.08,EUR
+ORD-00296,2026-09-14,CUST-0213,Nolan Group,SKU-7939,Digital Caliper,Tooling,AdhesiCo,7,EU,328,134.19,EUR
+ORD-00472,2026-04-28,CUST-0052,"Begum, John and Faulkner",SKU-5422,Torque Wrench,Tooling,CircuitSource UK,37,EU,222,214.09,EUR
+ORD-00430,2026-02-11,CUST-0144,Marshall-Spencer,SKU-3293,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,14,EU,135,183.41,EUR
+ORD-00354,2026-03-23,CUST-0034,"Freeman, Mitchell and West",SKU-6097,Corrugated Box (Small),Packaging,ToolForge Ltd,27,EU,70,195.15,EUR
+ORD-00018,2026-02-06,CUST-0031,"Jones, Davies and Jones",SKU-4750,Torque Wrench,Tooling,Bolt Supplies Ltd,4,UK,441,82.67,GBP
+ORD-00378,2026-08-02,CUST-0228,Reynolds-Wilson,SKU-7230,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,37,UK,130,118.65,GBP
+ORD-00048,2026-04-23,CUST-0091,"Robinson, Jarvis and Ali",SKU-9486,"M6 Bolt, Stainless",Fasteners,AdhesiCo,5,US,286,62.37,USD
+ORD-00007,2026-05-17,CUST-0037,Patel and Sons,SKU-3803,Corrugated Box (Small),Packaging,ToolForge Ltd,17,EU,84,115.62,EUR
+ORD-00370,2026-08-23,CUST-0074,"Marsh, James and Yates",SKU-6183,USB-C Connector,Electronics,CircuitSource UK,7,US,250,83.22,USD
+ORD-00183,2026-08-19,CUST-0127,Foster and Sons,SKU-3308,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,5,US,149,236.35,USD
+ORD-00755,2026-08-02,CUST-0153,Edwards Ltd,SKU-6143,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,31,UK,388,167.6,GBP
+ORD-00529,2026-05-19,CUST-0028,Myers-Harrison,SKU-8617,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,6,EU,199,165.13,EUR
+ORD-00543,2026-07-21,CUST-0293,,SKU-9784,Double-Sided Tape,Adhesives,ToolForge Ltd,43,US,449,176.06,USD
+ORD-00703,2026-08-29,CUST-0012,Webb Group,SKU-6185,Cyanoacrylate Glue,Adhesives,AdhesiCo,38,UK,200,80.67,GBP
+ORD-00445,2026-07-17,CUST-0068,"Smith, Cross and Campbell",SKU-2778,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,14,US,268,214.91,USD
+ORD-00078,2026-03-26,CUST-0158,"Davies, Walker and Harvey",SKU-5728,10k Resistor,Electronics,AdhesiCo,9,UK,240,172.2,GBP
+ORD-00693,2026-03-10,CUST-0016,"Whittaker, Ahmed and Stephens",SKU-2631,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,6,UK,256,169.56,GBP
+ORD-00213,2026-07-05,CUST-0040,O'Brien Ltd,SKU-2838,Digital Caliper,Tooling,Bolt Supplies Ltd,37,EU,463,126.42,EUR
+ORD-00758,2026-06-05,CUST-0185,James LLC,SKU-7471,Allen Key Set,Tooling,PackRight Ltd,7,US,65,33.86,USD
+ORD-00759,2026-01-14,CUST-0108,Foster-Faulkner,SKU-8882,Hex Nut Pack,Fasteners,CircuitSource UK,43,UK,124,109.0,GBP
+ORD-00322,2026-09-27,CUST-0128,Russell-Ward,SKU-9907,USB-C Connector,Electronics,Bolt Supplies Ltd,26,UK,401,178.37,GBP
+ORD-00724,2026-06-17,CUST-0233,Heath and Sons,SKU-1448,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,43,EU,329,46.02,EUR
+ORD-00444,2026-04-04,CUST-0262,"Hodgson, Moore and Hutchinson",SKU-5333,Double-Sided Tape,Adhesives,CircuitSource UK,45,UK,176,230.6,GBP
+ORD-00718,2026-01-29,CUST-0252,Johnson Inc,SKU-9740,Cyanoacrylate Glue,Adhesives,PackRight Ltd,9,US,163,136.48,USD
+ORD-00720,2026-05-03,CUST-0130,Wood LLC,SKU-7302,Hex Nut Pack,Fasteners,PackRight Ltd,42,EU,491,175.18,EUR
+ORD-00690,2026-07-25,CUST-0053,"Hughes, Waters and Bartlett",SKU-3764,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,25,US,500,49.85,USD
+ORD-00053,2026-07-14,CUST-0245,"Kaur, Sims and Stewart",SKU-1096,Allen Key Set,Tooling,PackRight Ltd,21,UK,386,97.56,GBP
+ORD-00588,2026-07-09,CUST-0282,Sanders-Bryan,SKU-1870,USB-C Connector,Electronics,Bolt Supplies Ltd,37,UK,421,244.68,GBP
+ORD-00305,2026-03-03,CUST-0258,Cooper-Cook,SKU-1862,Hex Nut Pack,Fasteners,CircuitSource UK,16,US,,128.99,USD
+ORD-00147,2026-06-22,CUST-0068,Scott-Yates,SKU-7172,Torque Wrench,Tooling,CircuitSource UK,12,EU,93,207.85,EUR
+ORD-00156,2026-08-23,CUST-0033,"Moran, Edwards and Morris",SKU-2816,"M6 Bolt, Stainless",Fasteners,AdhesiCo,40,US,275,4.21,USD
+ORD-00277,2026-06-29,CUST-0220,Barber-Finch,SKU-3719,10k Resistor,Electronics,ToolForge Ltd,10,EU,402,51.73,EUR
+ORD-00162,2026-09-21,CUST-0204,Long PLC,SKU-9897,M8 Washer,Fasteners,AdhesiCo,18,US,19,188.35,USD
+ORD-00715,2026-02-16,CUST-0204,"Horton, Barker and Jones",SKU-3302,Cyanoacrylate Glue,Adhesives,CircuitSource UK,9,EU,293,183.65,EUR
+ORD-00085,2026-05-03,CUST-0082,Jordan-Powell,SKU-6091,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,2,UK,283,102.06,GBP
+ORD-00040,2026-08-11,CUST-0177,"Banks, Williams and Goddard",SKU-6139,Corrugated Box (Small),Packaging,AdhesiCo,40,UK,262,29.0,GBP
+ORD-00441,2026-03-24,CUST-0211,Green-Cox,SKU-1367,Cyanoacrylate Glue,Adhesives,CircuitSource UK,4,UK,66,143.41,GBP
+ORD-00698,2026-09-09,CUST-0284,Harrison PLC,SKU-9837,Hex Nut Pack,Fasteners,ToolForge Ltd,32,EU,244,140.61,EUR
+ORD-00519,2026-07-15,CUST-0028,"Cameron, Parry and Thompson",SKU-5993,Torque Wrench,Tooling,ToolForge Ltd,4,EU,164,135.03,EUR
+ORD-00436,2026-09-23,CUST-0185,Thomas-Spencer,SKU-7358,Hex Nut Pack,Fasteners,AdhesiCo,31,UK,452,11.7,GBP
+ORD-00229,2026-01-21,CUST-0038,"Thomas, Pugh and Edwards",SKU-4082,M8 Washer,Fasteners,ToolForge Ltd,44,US,287,54.33,USD
+ORD-00467,2026-06-11,CUST-0253,"Walters, Lewis and Lewis",SKU-5501,M8 Washer,Fasteners,AdhesiCo,13,US,392,229.01,USD
+ORD-00363,2026-09-22,CUST-0124,Kent-Cox,SKU-1930,Corrugated Box (Small),Packaging,ToolForge Ltd,27,UK,339,79.96,GBP
+ORD-00344,2026-08-03,CUST-0275,Bell Group,SKU-8779,M8 Washer,Fasteners,ToolForge Ltd,17,EU,244,74.78,EUR
+ORD-00528,2026-03-14,CUST-0010,King PLC,SKU-7170,Double-Sided Tape,Adhesives,ToolForge Ltd,44,EU,270,10.97,EUR
+ORD-00250,2026-05-30,CUST-0212,Ward-Carter,SKU-7353,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,37,UK,464,248.18,GBP
+ORD-00176,2026-04-04,CUST-0067,"Giles, Parry and Russell",SKU-8088,Allen Key Set,Tooling,ToolForge Ltd,5,EU,426,31.13,EUR
+ORD-00109,2026-03-21,CUST-0213,"Smith, West and Sims",SKU-2622,Double-Sided Tape,Adhesives,AdhesiCo,41,EU,209,234.77,EUR
+ORD-00353,2026-02-15,CUST-0097,White-Brown,SKU-8237,Double-Sided Tape,Adhesives,CircuitSource UK,28,EU,380,121.17,EUR
+ORD-00558,2026-02-25,CUST-0293,George Inc,SKU-9666,PCB Relay,Electronics,Bolt Supplies Ltd,32,UK,371,172.19,GBP
+ORD-00087,2026-03-16,CUST-0197,Martin-Harding,SKU-4122,USB-C Connector,Electronics,ToolForge Ltd,34,EU,383,219.84,EUR
+ORD-00660,17/03/2026,CUST-0290,Robertson-Young,SKU-8243,Pallet Wrap,Packaging,PackRight Ltd,9,EU,375,119.8,EUR
+ORD-00265,2026-04-05,CUST-0096,"Read, Clements and Connor",SKU-8080,Epoxy Resin 50ml,Adhesives,AdhesiCo,3,US,378,153.57,USD
+ORD-00573,2026-05-20,CUST-0077,Barrett-Atkinson,SKU-3580,Double-Sided Tape,Adhesives,PackRight Ltd,9,UK,8,239.58,GBP
+ORD-00634,2026-06-16,CUST-0215,"Dodd, Grant and Allen",SKU-4256,PCB Relay,Electronics,PackRight Ltd,16,US,399,27.62,USD
+ORD-00292,2026-05-26,CUST-0014,"West, Sharpe and Taylor",SKU-5942,Allen Key Set,Tooling,CircuitSource UK,35,EU,311,127.43,EUR
+ORD-00079,2026-09-10,CUST-0225,Ford and Sons,SKU-2317,Pallet Wrap,Packaging,ToolForge Ltd,4,EU,456,108.06,EUR
+ORD-00033,2026-08-15,CUST-0283,Pritchard-Clarke,SKU-8007,Corrugated Box (Small),Packaging,ToolForge Ltd,2,EU,58,18.9,EUR
+ORD-00148,2026-01-23,CUST-0211,"Lowe, Johnson and Ross",SKU-6968,PCB Relay,Electronics,CircuitSource UK,30,US,313,71.3,USD
+ORD-00486,2026-08-29,CUST-0274,Wilson LLC,SKU-1136,USB-C Connector,Electronics,AdhesiCo,32,US,154,2.38,USD
+ORD-00096,2026-04-03,CUST-0088,Foster Group,SKU-3868,PCB Relay,Electronics,Bolt Supplies Ltd,41,US,446,95.7,USD
+ORD-00663,2026-04-10,CUST-0252,Burton-Ross,SKU-6206,Hex Nut Pack,Fasteners,ToolForge Ltd,40,US,262,235.86,USD
+ORD-00143,2026-02-11,CUST-0299,Walsh Group,SKU-3317,Torque Wrench,Tooling,PackRight Ltd,21,US,496,164.05,USD
+ORD-00116,2026-09-24,CUST-0155,May-Lewis,SKU-8504,Torque Wrench,Tooling,Bolt Supplies Ltd,5,EU,246,211.84,EUR
+ORD-00426,2026-09-07,CUST-0170,"Taylor, Giles and Gilbert",SKU-6851,PCB Relay,Electronics,CircuitSource UK,44,EU,336,58.71,EUR
+ORD-00542,2026-06-16,CUST-0235,Kemp and Sons,SKU-5043,Digital Caliper,Tooling,AdhesiCo,27,EU,398,10.55,EUR
+ORD-00325,2026-07-18,CUST-0182,Holland and Sons,SKU-3846,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,17,EU,304,79.57,EUR
+ORD-00179,2026-06-22,CUST-0289,Gordon-Harper,SKU-1674,PCB Relay,Electronics,Bolt Supplies Ltd,7,EU,24,237.14,EUR
+ORD-00539,2026-04-29,CUST-0119,"Hughes, Richardson and Mason",SKU-4783,Digital Caliper,Tooling,Bolt Supplies Ltd,24,EU,41,172.07,EUR
+ORD-00452,2026-09-05,CUST-0130,Collins-Harrison,SKU-6024,Pallet Wrap,Packaging,ToolForge Ltd,24,EU,397,176.4,EUR
+ORD-00615,2026-09-21,CUST-0252,Shah-Evans,SKU-8833,Double-Sided Tape,Adhesives,AdhesiCo,27,UK,433,181.97,GBP
+ORD-00765,2026-05-28,CUST-0099,"Wright, Campbell and Green",SKU-8688,Epoxy Resin 50ml,Adhesives,PackRight Ltd,30,UK,119,126.96,GBP
+ORD-00314,2026-06-07,CUST-0238,"Smith, Smith and Dennis",SKU-5341,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,7,US,81,201.92,USD
+ORD-00518,2026-06-21,CUST-0179,Carroll-Wright,SKU-8115,Epoxy Resin 50ml,Adhesives,AdhesiCo,9,UK,446,192.62,GBP
+ORD-00776,23/06/2026,CUST-0162,Henry LLC,SKU-7580,Torque Wrench,Tooling,CircuitSource UK,29,UK,32,98.38,GBP
+ORD-00389,2026-04-25,CUST-0174,Gardner PLC,SKU-9504,Allen Key Set,Tooling,ToolForge Ltd,41,EU,49,108.27,EUR
+ORD-00119,2026-04-21,CUST-0221,Lees and Sons,SKU-8398,Hex Nut Pack,Fasteners,CircuitSource UK,28,EU,174,206.87,EUR
+ORD-00784,2026-09-24,CUST-0127,Townsend-McLean,SKU-2724,PCB Relay,Electronics,PackRight Ltd,35,US,299,48.22,USD
+ORD-00335,2026-07-12,CUST-0052,"Singh, Stephenson and Mann",SKU-8855,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,43,EU,389,171.82,EUR
+ORD-00411,2026-03-21,CUST-0021,Davidson LLC,SKU-3518,M8 Washer,Fasteners,PackRight Ltd,40,US,27,193.44,USD
+ORD-00576,2026-01-28,CUST-0045,"Bird, Barnett and Reeves",SKU-7987,"M6 Bolt, Stainless",Fasteners,AdhesiCo,13,US,361,149.07,USD
+ORD-00385,2026-08-13,CUST-0138,Martin PLC,SKU-2522,USB-C Connector,Electronics,PackRight Ltd,23,US,94,28.55,USD
+ORD-00598,2026-05-14,CUST-0032,Rowe-Watkins,SKU-8752,Pallet Wrap,Packaging,ToolForge Ltd,12,EU,294,13.0,EUR
+ORD-00279,2026-03-11,CUST-0211,"Harris, Jones and Lloyd",SKU-1971,Allen Key Set,Tooling,PackRight Ltd,43,UK,65,175.39,GBP
+ORD-00133,2026-07-05,CUST-0046,Clarke-Manning,SKU-8155,PCB Relay,Electronics,Bolt Supplies Ltd,17,US,224,147.26,USD
+ORD-00060,2026-01-14,CUST-0160,Holloway-Taylor,SKU-7149,USB-C Connector,Electronics,AdhesiCo,14,UK,39,148.07,GBP
+ORD-00707,2026-06-27,CUST-0040,Barton-Butler,SKU-5945,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,21,UK,222,165.9,GBP
+ORD-00489,2026-05-20,CUST-0146,Robinson Ltd,SKU-9715,Allen Key Set,Tooling,PackRight Ltd,28,EU,97,213.39,EUR
+ORD-00313,2026-02-25,CUST-0080,Taylor Inc,SKU-2731,10k Resistor,Electronics,CircuitSource UK,30,EU,239,78.58,EUR
+ORD-00475,2026-06-21,CUST-0134,Jones Inc,SKU-6914,M8 Washer,Fasteners,PackRight Ltd,37,EU,286,232.97,EUR
+ORD-00237,05/09/2026,CUST-0250,Moss Group,SKU-1257,Allen Key Set,Tooling,Bolt Supplies Ltd,36,EU,283,102.89,EUR
+ORD-00763,2026-09-20,CUST-0250,"O'Brien, Burgess and Powell",SKU-4799,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,35,US,10,105.56,USD
+ORD-00419,2026-04-27,CUST-0133,"Wright, Baker and Little",SKU-7678,Pallet Wrap,Packaging,AdhesiCo,30,UK,323,101.17,GBP
+ORD-00294,2026-03-09,CUST-0199,Nixon-Allen,SKU-7895,M8 Washer,Fasteners,PackRight Ltd,36,US,350,43.28,USD
+ORD-00673,2026-01-28,CUST-0140,Taylor Group,SKU-6917,USB-C Connector,Electronics,AdhesiCo,42,UK,,238.79,GBP
+ORD-00400,2026-03-30,CUST-0066,Manning-Jackson,SKU-2696,PCB Relay,Electronics,AdhesiCo,44,EU,308,151.58,EUR
+ORD-00645,2026-04-17,CUST-0042,"Pearce, Bird and Taylor",SKU-6500,Allen Key Set,Tooling,Bolt Supplies Ltd,34,EU,485,227.51,EUR
+ORD-00246,2026-07-12,CUST-0222,Thomas LLC,SKU-4043,USB-C Connector,Electronics,ToolForge Ltd,44,EU,195,21.51,EUR
+ORD-00800,2026-06-16,CUST-0093,Hawkins and Sons,SKU-1445,10k Resistor,Electronics,Bolt Supplies Ltd,21,EU,200,24.78,EUR
+ORD-00675,19/05/2026,CUST-0186,"Higgins, Daly and Taylor",SKU-2570,Pallet Wrap,Packaging,ToolForge Ltd,39,US,181,205.85,USD
+ORD-00694,2026-06-17,CUST-0079,"Owen, Brown and Flynn",SKU-5960,Double-Sided Tape,Adhesives,ToolForge Ltd,41,EU,50,190.07,EUR
+ORD-00368,2026-03-02,CUST-0241,"Page, Griffiths and Coleman",SKU-1879,Digital Caliper,Tooling,ToolForge Ltd,39,US,484,155.2,USD
+ORD-00429,2026-03-10,CUST-0170,Allen-Jones,SKU-8863,Cyanoacrylate Glue,Adhesives,AdhesiCo,30,US,184,193.71,USD
+ORD-00291,2026-06-29,CUST-0220,"Hawkins, Roberts and Bibi",SKU-6152,Allen Key Set,Tooling,CircuitSource UK,17,US,142,161.19,USD
+ORD-00728,2026-01-12,CUST-0286,Jackson and Sons,SKU-4747,Torque Wrench,Tooling,Bolt Supplies Ltd,31,UK,102,65.52,GBP
+ORD-00332,2026-06-12,CUST-0114,Chapman-Birch,SKU-2705,Torque Wrench,Tooling,AdhesiCo,11,UK,170,186.36,GBP
+ORD-00359,2026-03-30,CUST-0005,"Lawson, Griffiths and Singh",SKU-4666,M8 Washer,Fasteners,PackRight Ltd,40,UK,413,235.76,GBP
+ORD-00717,2026-07-19,CUST-0121,"Roberts, Bond and Gill",SKU-7928,Pallet Wrap,Packaging,CircuitSource UK,11,EU,55,43.87,EUR
+ORD-00089,2026-09-05,CUST-0177,Brown-Parker,SKU-6446,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,36,US,194,113.89,USD
+ORD-00211,2026-06-01,CUST-0189,Jones-Smith,SKU-4618,Pallet Wrap,Packaging,CircuitSource UK,10,UK,245,38.38,GBP
+ORD-00145,2026-08-05,CUST-0261,Greenwood Ltd,SKU-6928,Torque Wrench,Tooling,Bolt Supplies Ltd,25,EU,159,45.15,EUR
+ORD-00470,2026-05-13,CUST-0096,"Holmes, Bond and Lane",SKU-9987,Bubble Wrap Roll,Packaging,PackRight Ltd,17,EU,138,117.89,EUR
+ORD-00620,2026-06-07,CUST-0256,Woods Inc,SKU-9748,Cyanoacrylate Glue,Adhesives,AdhesiCo,3,UK,19,84.89,GBP
+ORD-00134,2026-06-23,CUST-0114,Smith-Hill,SKU-6456,Cyanoacrylate Glue,Adhesives,CircuitSource UK,6,EU,262,158.34,EUR
+ORD-00401,2026-05-08,CUST-0141,"Webster, Watson and Williams",SKU-7518,Cyanoacrylate Glue,Adhesives,PackRight Ltd,20,EU,232,201.22,EUR
+ORD-00685,2026-07-07,CUST-0095,Curtis PLC,SKU-8203,Allen Key Set,Tooling,Bolt Supplies Ltd,13,US,428,88.77,USD
+ORD-00524,2026-07-31,CUST-0217,"Black, Howe and Bailey",SKU-6984,Torque Wrench,Tooling,PackRight Ltd,14,UK,165,86.2,GBP
+ORD-00155,2026-03-18,CUST-0281,"Chadwick, Farmer and Hopkins",SKU-9647,M8 Washer,Fasteners,AdhesiCo,9,UK,398,72.1,GBP
+ORD-00792,2026-08-20,CUST-0173,Powell Inc,SKU-7181,Digital Caliper,Tooling,AdhesiCo,40,EU,68,190.51,EUR
+ORD-00468,2026-01-28,CUST-0270,Jones-Lyons,SKU-7933,PCB Relay,Electronics,AdhesiCo,36,UK,17,125.67,GBP
+ORD-00408,2026-01-07,CUST-0129,Cole Inc,SKU-4327,Pallet Wrap,Packaging,ToolForge Ltd,30,UK,425,56.46,GBP
+ORD-00171,2026-05-27,CUST-0252,"Davies, Turner and James",SKU-4279,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,10,EU,437,18.61,EUR
+ORD-00491,2026-02-22,CUST-0145,Taylor-McCarthy,SKU-5410,Torque Wrench,Tooling,CircuitSource UK,30,UK,373,2.15,GBP
+ORD-00265,2026-04-05,CUST-0096,"Read, Clements and Connor",SKU-8080,Epoxy Resin 50ml,Adhesives,AdhesiCo,3,US,378,153.57,USD
+ORD-00612,2026-04-02,CUST-0226,Porter Ltd,SKU-2137,M8 Washer,Fasteners,AdhesiCo,14,US,313,98.22,USD
+ORD-00037,2026-02-25,CUST-0196,Jordan Group,SKU-1634,USB-C Connector,Electronics,AdhesiCo,16,UK,103,204.16,GBP
+ORD-00795,2026-03-05,CUST-0287,Edwards LLC,SKU-2395,Pallet Wrap,Packaging,CircuitSource UK,41,EU,278,144.26,EUR
+ORD-00051,2026-06-21,CUST-0164,Davidson Group,SKU-9849,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,10,US,78,57.89,USD
+ORD-00117,2026-08-16,CUST-0038,Horton PLC,SKU-2323,M8 Washer,Fasteners,PackRight Ltd,40,EU,76,16.51,EUR
+ORD-00142,2026-06-21,CUST-0034,Quinn and Sons,SKU-6401,Torque Wrench,Tooling,Bolt Supplies Ltd,37,EU,348,96.7,EUR
+ORD-00041,2026-08-12,CUST-0001,Taylor Ltd,SKU-9518,USB-C Connector,Electronics,ToolForge Ltd,45,UK,369,235.07,GBP
+ORD-00556,2026-07-04,CUST-0019,McKenzie-Barnett,SKU-2525,Torque Wrench,Tooling,PackRight Ltd,22,US,189,224.39,USD
+ORD-00587,2026-06-05,CUST-0223,"Jones, Morgan and Pearce",SKU-6640,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,39,EU,5,152.91,EUR
+ORD-00541,2026-07-31,CUST-0114,Richardson PLC,SKU-4323,Epoxy Resin 50ml,Adhesives,CircuitSource UK,6,US,91,231.78,USD
+ORD-00774,2026-08-01,CUST-0185,Booth-Harris,SKU-5021,Bubble Wrap Roll,Packaging,CircuitSource UK,35,EU,216,196.83,EUR
+ORD-00799,2026-05-27,CUST-0074,"Wallace, Willis and Hodgson",SKU-3992,Hex Nut Pack,Fasteners,PackRight Ltd,7,UK,79,76.77,GBP
+ORD-00039,2026-07-24,CUST-0275,Scott-Gray,SKU-6425,Pallet Wrap,Packaging,Bolt Supplies Ltd,9,EU,450,242.6,EUR
+ORD-00136,2026-09-10,CUST-0238,Martin-Ahmed,SKU-8354,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,43,EU,326,246.63,EUR
+ORD-00120,2026-06-10,CUST-0131,"Jennings, Skinner and Smith",SKU-7132,M8 Washer,Fasteners,CircuitSource UK,45,US,473,118.62,USD
+ORD-00672,2026-01-09,CUST-0133,McLean-Smith,SKU-3668,M8 Washer,Fasteners,ToolForge Ltd,5,EU,75,79.99,EUR
+ORD-00596,2026-06-09,CUST-0028,Kennedy-Dunn,SKU-6628,Hex Nut Pack,Fasteners,ToolForge Ltd,2,EU,241,113.56,EUR
+ORD-00639,2026-08-31,CUST-0237,Martin LLC,SKU-5573,Digital Caliper,Tooling,Bolt Supplies Ltd,29,UK,377,218.16,GBP
+ORD-00196,2026-08-24,CUST-0273,Ferguson Group,SKU-6608,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,24,UK,347,193.02,GBP
+ORD-00140,2026-08-19,CUST-0053,"White, Evans and Hughes",SKU-6626,Torque Wrench,Tooling,Bolt Supplies Ltd,34,UK,331,43.22,GBP
+ORD-00374,2026-06-06,CUST-0086,"Griffiths, Davies and Evans",SKU-2069,M8 Washer,Fasteners,Bolt Supplies Ltd,21,EU,486,72.78,EUR
+ORD-00255,2026-06-13,CUST-0150,Gibbons-Collins,SKU-9044,Corrugated Box (Small),Packaging,ToolForge Ltd,17,US,167,94.08,USD
+ORD-00510,2026-08-01,CUST-0055,"Goddard, White and Lewis",SKU-6864,PCB Relay,Electronics,AdhesiCo,44,EU,219,220.72,EUR
+ORD-00210,2026-02-01,CUST-0061,Slater Ltd,SKU-8625,Pallet Wrap,Packaging,PackRight Ltd,12,UK,208,171.55,GBP
+ORD-00222,2026-01-23,CUST-0206,Newton Group,SKU-8191,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,36,EU,112,188.62,EUR
+ORD-00479,2026-07-22,CUST-0139,Black-Chambers,SKU-8289,Pallet Wrap,Packaging,PackRight Ltd,39,EU,267,241.38,EUR
+ORD-00231,2026-05-25,CUST-0195,Singh-Bibi,SKU-8639,PCB Relay,Electronics,ToolForge Ltd,43,US,184,77.17,USD
+ORD-00219,2026-07-21,CUST-0271,"Baker, Williams and Burton",SKU-3086,Corrugated Box (Small),Packaging,CircuitSource UK,2,UK,388,5.78,GBP
+ORD-00780,2026-05-26,CUST-0110,"Read, Wallis and Singh",SKU-2520,PCB Relay,Electronics,ToolForge Ltd,37,EU,160,130.38,EUR
+ORD-00622,2026-09-08,CUST-0010,"Walker, Morris and Flynn",SKU-8720,Hex Nut Pack,Fasteners,ToolForge Ltd,4,UK,125,175.35,GBP
+ORD-00454,2026-01-27,CUST-0083,"Hill, Barrett and White",SKU-7375,Allen Key Set,Tooling,Bolt Supplies Ltd,7,EU,422,36.42,EUR
+ORD-00462,2026-01-15,CUST-0247,"Begum, James and Rees",SKU-2904,Double-Sided Tape,Adhesives,PackRight Ltd,6,US,196,158.45,USD
+ORD-00632,2026-03-23,CUST-0023,"Ward, Pritchard and Shaw",SKU-1885,Cyanoacrylate Glue,Adhesives,PackRight Ltd,20,UK,108,108.72,GBP
+ORD-00455,2026-05-15,CUST-0114,"Hooper, Berry and Leach",SKU-7075,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,40,UK,20,181.15,GBP
+ORD-00181,2026-02-07,CUST-0031,"Elliott, Bennett and Browne",SKU-3589,Cyanoacrylate Glue,Adhesives,AdhesiCo,28,US,248,116.16,USD
+ORD-00731,2026-07-15,CUST-0067,Thompson PLC,SKU-8066,Pallet Wrap,Packaging,CircuitSource UK,40,US,111,248.8,USD
+ORD-00228,2026-04-15,CUST-0170,"Goddard, Pratt and Reynolds",SKU-2295,Epoxy Resin 50ml,Adhesives,AdhesiCo,25,US,48,133.96,USD
+ORD-00152,2026-08-12,CUST-0047,Collins-Wilson,SKU-4637,Double-Sided Tape,Adhesives,AdhesiCo,24,UK,477,6.76,GBP
+ORD-00310,2026-02-17,CUST-0023,"Gill, Daniels and Brown",SKU-4792,PCB Relay,Electronics,ToolForge Ltd,28,US,359,223.9,USD
+ORD-00069,2026-04-05,CUST-0099,Hunt-Wade,SKU-4545,USB-C Connector,Electronics,AdhesiCo,19,UK,371,147.44,GBP
+ORD-00044,2026-01-01,CUST-0156,"Porter, Knowles and Nash",SKU-5700,Bubble Wrap Roll,Packaging,CircuitSource UK,29,EU,403,145.04,EUR
+ORD-00282,2026-08-23,CUST-0184,"Collins, Chan and Walton",SKU-2037,Hex Nut Pack,Fasteners,ToolForge Ltd,27,UK,112,242.04,GBP
+ORD-00521,2026-03-09,CUST-0173,Wilson PLC,SKU-2352,Bubble Wrap Roll,Packaging,AdhesiCo,38,UK,382,12.42,GBP
+ORD-00399,2026-01-25,CUST-0284,"Hicks, Bell and Bennett",SKU-8091,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,32,EU,474,127.13,EUR
+ORD-00081,2026-05-23,CUST-0093,Smith-Ford,SKU-8141,Allen Key Set,Tooling,AdhesiCo,7,US,241,87.06,USD
+ORD-00293,2026-05-03,CUST-0254,Howell-Barnes,SKU-7322,Pallet Wrap,Packaging,Bolt Supplies Ltd,17,UK,256,159.56,GBP
+ORD-00730,2026-09-11,CUST-0061,Palmer-Rahman,SKU-4677,Digital Caliper,Tooling,CircuitSource UK,14,US,485,215.5,USD
+ORD-00757,2026-03-01,CUST-0007,Mahmood Group,SKU-3813,"M6 Bolt, Stainless",Fasteners,AdhesiCo,31,US,355,101.33,USD
+ORD-00395,2026-08-31,CUST-0187,Carter LLC,SKU-8414,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,8,EU,,164.76,EUR
+ORD-00112,2026-05-05,CUST-0065,Smith-Fox,SKU-4362,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,37,US,107,146.64,USD
+ORD-00203,2026-04-13,CUST-0148,"Gibbs, Richardson and Hancock",SKU-6262,Cyanoacrylate Glue,Adhesives,PackRight Ltd,43,EU,31,226.99,EUR
+ORD-00121,2026-02-19,CUST-0191,Cooper Group,SKU-3131,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,5,US,301,239.16,USD
+ORD-00602,2026-09-11,CUST-0212,Wood and Sons,SKU-7277,PCB Relay,Electronics,CircuitSource UK,44,UK,226,181.53,GBP
+ORD-00714,2026-01-22,CUST-0249,Jones Group,SKU-1326,Torque Wrench,Tooling,Bolt Supplies Ltd,7,EU,161,150.44,EUR
+ORD-00416,2026-09-18,CUST-0229,Thomas Ltd,SKU-8975,Digital Caliper,Tooling,Bolt Supplies Ltd,20,EU,460,162.92,EUR
+ORD-00107,2026-02-02,CUST-0238,"Hughes, Cameron and Bibi",SKU-5951,Pallet Wrap,Packaging,AdhesiCo,9,UK,,11.43,GBP
+ORD-00019,2026-04-20,CUST-0277,Hill-Potter,SKU-3167,Pallet Wrap,Packaging,ToolForge Ltd,38,US,243,60.83,USD
+ORD-00299,2026-03-31,CUST-0062,Crawford-Thompson,SKU-1207,Torque Wrench,Tooling,CircuitSource UK,2,US,84,124.15,USD
+ORD-00327,2026-03-31,CUST-0252,Pearson Ltd,SKU-1621,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,5,US,,150.46,USD
+ORD-00206,2026-08-28,CUST-0140,"Taylor, Perry and Lloyd",SKU-4159,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,23,EU,84,182.81,EUR
+ORD-00298,2026-08-12,CUST-0123,Chan-Smith,SKU-1948,M8 Washer,Fasteners,CircuitSource UK,7,EU,474,108.68,EUR
+ORD-00138,2026-01-20,CUST-0030,"Ross, Richards and Woods",SKU-7041,Bubble Wrap Roll,Packaging,PackRight Ltd,6,US,331,216.08,USD
+ORD-00578,2026-08-28,CUST-0050,Kirk Inc,SKU-8464,Torque Wrench,Tooling,PackRight Ltd,45,UK,330,177.58,GBP
+ORD-00461,2026-05-09,CUST-0227,Blake-Murphy,SKU-7178,Hex Nut Pack,Fasteners,ToolForge Ltd,32,US,395,60.89,USD
+ORD-00248,2026-06-07,CUST-0228,Barrett PLC,SKU-6896,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,8,UK,68,21.92,GBP
+ORD-00388,27/02/2026,CUST-0211,Porter-Walsh,SKU-8220,USB-C Connector,Electronics,Bolt Supplies Ltd,6,US,134,163.78,USD
+ORD-00483,2026-08-28,CUST-0277,"Price, Gordon and Cox",SKU-5463,Bubble Wrap Roll,Packaging,ToolForge Ltd,30,US,70,242.39,USD
+ORD-00165,2026-05-31,CUST-0165,"Turner, Watson and Hodgson",SKU-2680,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,22,UK,339,73.98,GBP
+ORD-00409,2026-04-11,CUST-0100,Browne and Sons,SKU-5819,Pallet Wrap,Packaging,AdhesiCo,13,EU,350,18.71,EUR
+ORD-00238,2026-01-09,CUST-0258,Rees Inc,SKU-8054,Pallet Wrap,Packaging,CircuitSource UK,8,US,471,24.17,USD
+ORD-00507,2026-09-09,CUST-0041,"Page, Watts and Dickinson",SKU-8668,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,25,UK,286,185.9,GBP
+ORD-00599,2026-09-06,CUST-0043,Harrison-Butler,SKU-3077,Torque Wrench,Tooling,ToolForge Ltd,6,US,436,195.96,USD
+ORD-00375,2026-08-11,CUST-0069,Edwards-Gallagher,SKU-6615,Allen Key Set,Tooling,AdhesiCo,24,US,385,47.19,USD
+ORD-00346,2026-01-22,CUST-0217,Archer LLC,SKU-2283,10k Resistor,Electronics,AdhesiCo,14,UK,422,156.84,GBP
+ORD-00627,2026-01-09,CUST-0250,Shepherd-Jones,SKU-2322,Digital Caliper,Tooling,Bolt Supplies Ltd,2,UK,92,231.54,GBP
+ORD-00534,2026-07-15,CUST-0267,Taylor Ltd,SKU-4726,10k Resistor,Electronics,AdhesiCo,17,EU,294,38.27,EUR
+ORD-00376,2026-04-25,CUST-0068,Baldwin-Taylor,SKU-4460,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,39,UK,259,42.33,GBP
+ORD-00787,2026-08-02,CUST-0084,Simpson-McDonald,SKU-3364,Double-Sided Tape,Adhesives,ToolForge Ltd,10,US,249,177.82,USD
+ORD-00384,2026-07-04,CUST-0161,,SKU-7979,10k Resistor,Electronics,Bolt Supplies Ltd,8,US,436,189.58,USD
+ORD-00315,2026-06-17,CUST-0076,Gray-Burton,SKU-2494,Torque Wrench,Tooling,CircuitSource UK,24,UK,203,128.41,GBP
+ORD-00340,2026-02-19,CUST-0014,"Morris, Butler and Davies",SKU-4390,Digital Caliper,Tooling,CircuitSource UK,42,UK,150,244.27,GBP
+ORD-00241,2026-02-12,CUST-0256,Burton-Johnson,SKU-8109,Hex Nut Pack,Fasteners,PackRight Ltd,38,UK,440,243.46,GBP
+ORD-00042,2026-02-05,CUST-0170,"Cross, Scott and Middleton",SKU-6143,USB-C Connector,Electronics,Bolt Supplies Ltd,21,US,260,77.39,USD
+ORD-00396,2026-07-11,CUST-0055,Cole-Day,SKU-1750,Pallet Wrap,Packaging,CircuitSource UK,33,EU,72,205.48,EUR
+ORD-00251,2026-07-14,CUST-0087,"Harrison, Green and Waters",SKU-3274,Torque Wrench,Tooling,PackRight Ltd,21,EU,138,123.33,EUR
+ORD-00425,2026-01-28,CUST-0282,Evans and Sons,SKU-8557,PCB Relay,Electronics,ToolForge Ltd,6,EU,149,167.95,EUR
+ORD-00261,2026-07-11,CUST-0201,,SKU-8586,Torque Wrench,Tooling,ToolForge Ltd,34,US,78,86.31,USD
+ORD-00594,2026-09-05,CUST-0189,Hopkins Inc,SKU-2854,Corrugated Box (Small),Packaging,ToolForge Ltd,32,UK,493,172.66,GBP
+ORD-00743,2026-01-03,CUST-0270,"Holt, Scott and Stevens",SKU-3958,Torque Wrench,Tooling,AdhesiCo,6,EU,127,192.09,EUR
+ORD-00323,2026-09-15,CUST-0165,Oliver-Turnbull,SKU-7363,Cyanoacrylate Glue,Adhesives,PackRight Ltd,13,EU,14,79.79,EUR
+ORD-00495,2026-08-31,CUST-0200,McDonald-Webb,SKU-6113,Allen Key Set,Tooling,PackRight Ltd,12,UK,323,182.09,GBP
+ORD-00695,2026-04-14,CUST-0151,Ford Group,SKU-9157,Digital Caliper,Tooling,AdhesiCo,34,US,134,135.66,USD
+ORD-00168,2026-02-04,CUST-0121,Jones-Baldwin,SKU-7001,Epoxy Resin 50ml,Adhesives,PackRight Ltd,26,UK,487,141.85,GBP
+ORD-00756,2026-04-19,CUST-0095,"Potts, Johnson and Hall",SKU-2281,Bubble Wrap Roll,Packaging,ToolForge Ltd,18,UK,447,168.38,GBP
+ORD-00515,2026-03-21,CUST-0049,"Bradley, Grant and Dunn",SKU-1618,Pallet Wrap,Packaging,AdhesiCo,24,EU,80,34.69,EUR
+ORD-00275,2026-01-22,CUST-0226,Taylor LLC,SKU-9951,Pallet Wrap,Packaging,CircuitSource UK,29,US,53,184.02,USD
+ORD-00484,2026-08-22,CUST-0289,Scott and Sons,SKU-8126,PCB Relay,Electronics,ToolForge Ltd,42,EU,328,133.49,EUR
+ORD-00655,2026-07-10,CUST-0148,Chapman-Walker,SKU-1775,Corrugated Box (Small),Packaging,CircuitSource UK,24,US,146,114.04,USD
+ORD-00723,2026-07-31,CUST-0171,"Brown, Hall and Newman",SKU-7920,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,12,EU,358,65.32,EUR
+ORD-00771,2026-02-24,CUST-0053,Moore LLC,SKU-1687,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,8,UK,86,157.52,GBP
+ORD-00410,2026-01-21,CUST-0220,Fletcher-Tucker,SKU-5572,Torque Wrench,Tooling,ToolForge Ltd,18,US,67,40.32,USD
+ORD-00736,2026-01-22,CUST-0298,Spencer and Sons,SKU-3938,Corrugated Box (Small),Packaging,PackRight Ltd,12,EU,258,123.26,EUR
+ORD-00220,2026-07-14,CUST-0118,Norton and Sons,SKU-5055,Digital Caliper,Tooling,AdhesiCo,24,EU,80,68.98,EUR
+ORD-00307,2026-05-05,CUST-0238,Robertson LLC,SKU-7033,Pallet Wrap,Packaging,ToolForge Ltd,33,EU,396,193.99,EUR
+ORD-00163,2026-06-19,CUST-0140,"Booth, West and Jones",SKU-3039,Corrugated Box (Small),Packaging,PackRight Ltd,29,EU,456,100.07,EUR
+ORD-00192,2026-06-07,CUST-0014,Young-Fletcher,SKU-8775,M8 Washer,Fasteners,PackRight Ltd,43,EU,401,243.02,EUR
+ORD-00514,2026-06-04,CUST-0004,"Morton, Thomson and Davies",SKU-5920,Hex Nut Pack,Fasteners,CircuitSource UK,15,UK,439,78.79,GBP
+ORD-00194,2026-04-08,CUST-0010,Green Inc,SKU-8225,Allen Key Set,Tooling,PackRight Ltd,28,UK,78,103.3,GBP
+ORD-00273,2026-09-08,CUST-0086,Green-Jackson,SKU-2354,Double-Sided Tape,Adhesives,ToolForge Ltd,3,US,408,190.29,USD
+ORD-00553,2026-05-06,CUST-0281,Jennings Inc,SKU-5556,Allen Key Set,Tooling,ToolForge Ltd,42,UK,286,205.05,GBP
+ORD-00575,2026-06-09,CUST-0174,"Taylor, Johnson and Bruce",SKU-9856,10k Resistor,Electronics,AdhesiCo,5,UK,67,7.35,GBP
+ORD-00601,2026-05-14,CUST-0121,Jones-Davies,SKU-8944,Cyanoacrylate Glue,Adhesives,CircuitSource UK,35,UK,442,8.37,GBP
+ORD-00074,2026-07-14,CUST-0231,"Hunt, Murray and Smith",SKU-8253,Torque Wrench,Tooling,PackRight Ltd,39,EU,220,76.41,EUR
+ORD-00061,2026-06-04,CUST-0062,Lawson PLC,SKU-1672,10k Resistor,Electronics,PackRight Ltd,36,EU,220,165.41,EUR
+ORD-00034,2026-07-09,CUST-0299,Blake-Cook,SKU-3426,PCB Relay,Electronics,AdhesiCo,10,UK,22,77.13,GBP
+ORD-00365,2026-04-24,CUST-0274,Wood-Khan,SKU-8794,Torque Wrench,Tooling,PackRight Ltd,34,US,154,211.37,USD
+ORD-00223,2026-04-30,CUST-0295,Jackson-Harrison,SKU-6224,PCB Relay,Electronics,ToolForge Ltd,40,US,396,168.17,USD
+ORD-00564,2026-09-03,CUST-0243,"Byrne, Davies and Oliver",SKU-1582,Bubble Wrap Roll,Packaging,CircuitSource UK,32,EU,80,156.84,EUR
+ORD-00270,2026-08-03,CUST-0071,Davey-Adams,SKU-7286,PCB Relay,Electronics,AdhesiCo,13,US,250,158.91,USD
+ORD-00572,2026-06-09,CUST-0108,Price-Law,SKU-6257,Corrugated Box (Small),Packaging,CircuitSource UK,14,EU,147,69.23,EUR
+ORD-00339,2026-09-09,CUST-0079,"Lloyd, Cook and Stone",SKU-1893,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,2,US,219,22.0,USD
+ORD-00526,2026-01-28,CUST-0125,Whitehead Group,SKU-3419,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,2,EU,176,173.48,EUR
+ORD-00190,2026-03-18,CUST-0264,"Fletcher, Hudson and Jones",SKU-3290,Double-Sided Tape,Adhesives,PackRight Ltd,41,US,164,40.71,USD
+ORD-00451,2026-07-07,CUST-0142,Watts Group,SKU-7511,Digital Caliper,Tooling,CircuitSource UK,28,EU,283,195.97,EUR
+ORD-00640,2026-03-18,CUST-0294,Chapman and Sons,SKU-1083,Double-Sided Tape,Adhesives,AdhesiCo,4,UK,21,247.82,GBP
+ORD-00157,2026-05-30,CUST-0220,"Wilkinson, Morgan and Hewitt",SKU-1025,PCB Relay,Electronics,ToolForge Ltd,24,UK,124,142.71,GBP
+ORD-00108,2026-03-11,CUST-0199,Knight LLC,SKU-8432,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,44,UK,487,185.81,GBP
+ORD-00781,2026-05-13,CUST-0124,Taylor Ltd,SKU-5979,10k Resistor,Electronics,AdhesiCo,34,UK,57,183.02,GBP
+ORD-00563,2026-06-20,CUST-0175,"Cross, James and Woods",SKU-7488,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,41,EU,492,7.38,EUR
+ORD-00336,2026-01-11,CUST-0164,Lewis-Roberts,SKU-5278,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,6,US,176,42.61,USD
+ORD-00195,2026-02-01,CUST-0071,"Cooper, Roberts and Thomas",SKU-9498,Allen Key Set,Tooling,CircuitSource UK,37,US,167,249.53,USD
+ORD-00071,2026-05-30,CUST-0065,Johnson and Sons,SKU-9042,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,2,UK,294,71.16,GBP
+ORD-00347,2026-02-04,CUST-0045,Smith and Sons,SKU-7358,Bubble Wrap Roll,Packaging,ToolForge Ltd,27,EU,283,81.6,EUR
+ORD-00550,2026-03-18,CUST-0084,Davies Group,SKU-3369,Pallet Wrap,Packaging,CircuitSource UK,5,EU,215,77.08,EUR
+ORD-00052,2026-07-28,CUST-0170,Kent and Sons,SKU-9890,10k Resistor,Electronics,AdhesiCo,28,US,32,51.79,USD
+ORD-00415,2026-01-21,CUST-0165,Hawkins Ltd,SKU-7248,Allen Key Set,Tooling,Bolt Supplies Ltd,26,UK,132,135.11,GBP
+ORD-00091,2026-03-19,CUST-0254,"Edwards, O'Connor and Gilbert",SKU-1606,Cyanoacrylate Glue,Adhesives,CircuitSource UK,34,EU,495,147.59,EUR
+ORD-00012,2026-02-28,CUST-0275,"King, Khan and Taylor",SKU-5371,Torque Wrench,Tooling,PackRight Ltd,9,EU,151,108.75,EUR
+ORD-00591,2026-02-06,CUST-0009,Perry-Mitchell,SKU-3359,10k Resistor,Electronics,AdhesiCo,44,UK,224,243.75,GBP
+ORD-00747,2026-05-03,CUST-0205,Ali-Smith,SKU-2461,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,15,UK,84,97.19,GBP
+ORD-00744,2026-03-04,CUST-0202,Hamilton-Kirby,SKU-7120,Corrugated Box (Small),Packaging,ToolForge Ltd,8,US,,80.95,USD
+ORD-00284,2026-08-24,CUST-0009,"Griffin, Thompson and Forster",SKU-3035,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,30,UK,234,0.27,GBP
+ORD-00174,2026-03-08,CUST-0045,Brown-Fisher,SKU-2077,Digital Caliper,Tooling,PackRight Ltd,27,US,368,179.75,USD
+ORD-00625,2026-03-12,CUST-0165,"Ward, Daly and Wallis",SKU-4493,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,39,UK,89,83.94,GBP
+ORD-00369,2026-07-15,CUST-0272,Harding-Carter,SKU-5888,PCB Relay,Electronics,AdhesiCo,5,UK,446,213.57,GBP
+ORD-00135,2026-03-17,CUST-0121,"Clayton, Fraser and Clarke",SKU-2684,USB-C Connector,Electronics,CircuitSource UK,18,US,102,43.46,USD
+ORD-00611,2026-06-15,CUST-0132,Whitehead-Alexander,SKU-3653,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,19,EU,398,15.69,EUR
+ORD-00090,2026-07-16,CUST-0120,Roberts-Johnson,SKU-7730,PCB Relay,Electronics,Bolt Supplies Ltd,22,UK,382,118.3,GBP
+ORD-00783,2026-04-30,CUST-0180,"Smith, Williams and Brooks",SKU-5902,PCB Relay,Electronics,PackRight Ltd,44,EU,402,203.79,EUR
+ORD-00499,2026-01-31,CUST-0183,Clark-Smith,SKU-3521,Pallet Wrap,Packaging,ToolForge Ltd,8,UK,65,122.01,GBP
+ORD-00102,2026-01-21,CUST-0159,Barrett-Martin,SKU-8222,PCB Relay,Electronics,Bolt Supplies Ltd,39,UK,187,183.12,GBP
+ORD-00433,2026-07-23,CUST-0187,Evans-Dodd,SKU-9227,Allen Key Set,Tooling,Bolt Supplies Ltd,44,UK,123,212.01,GBP
+ORD-00023,2026-09-06,CUST-0247,Vaughan Inc,SKU-4502,10k Resistor,Electronics,AdhesiCo,5,US,85,94.81,USD
+ORD-00185,2026-02-16,CUST-0202,"Davey, Allen and Atkinson",SKU-9281,Bubble Wrap Roll,Packaging,AdhesiCo,17,UK,,145.88,GBP
+ORD-00392,2026-02-10,CUST-0236,Lowe Group,SKU-8277,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,30,UK,46,214.16,GBP
+ORD-00300,2026-03-27,CUST-0191,Williams-Wright,SKU-3079,Allen Key Set,Tooling,PackRight Ltd,9,US,395,224.98,USD
+ORD-00610,2026-04-05,CUST-0130,Smith-Allen,SKU-5826,Torque Wrench,Tooling,AdhesiCo,44,UK,480,19.02,GBP
+ORD-00593,2026-08-06,CUST-0004,Lane Ltd,SKU-9161,Corrugated Box (Small),Packaging,CircuitSource UK,34,UK,138,102.77,GBP
+ORD-00226,2026-08-02,CUST-0210,"Lane, Johnston and Saunders",SKU-3444,Digital Caliper,Tooling,PackRight Ltd,26,EU,95,188.63,EUR
+ORD-00149,2026-05-03,CUST-0159,Harris Inc,SKU-8684,Epoxy Resin 50ml,Adhesives,CircuitSource UK,25,EU,348,236.79,EUR
+ORD-00073,2026-06-05,CUST-0044,"O'Neill, Oliver and O'Connor",SKU-5066,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,37,UK,392,104.1,GBP
+ORD-00059,2026-08-27,CUST-0132,Moran-Summers,SKU-7043,Hex Nut Pack,Fasteners,CircuitSource UK,40,UK,311,240.94,GBP
+ORD-00722,2026-03-24,CUST-0225,George-Webb,SKU-6196,USB-C Connector,Electronics,AdhesiCo,4,UK,141,216.62,GBP
+ORD-00016,2026-09-28,CUST-0217,Taylor Group,SKU-4470,Torque Wrench,Tooling,ToolForge Ltd,14,US,366,78.0,USD
+ORD-00184,2026-06-17,CUST-0296,"West, Savage and Freeman",SKU-6123,Epoxy Resin 50ml,Adhesives,CircuitSource UK,12,UK,256,248.99,GBP
+ORD-00793,2026-08-18,CUST-0077,"Griffiths, Adams and Collier",SKU-6328,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,41,EU,341,155.94,EUR
+ORD-00609,2026-01-30,CUST-0112,Wright Inc,SKU-2995,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,7,UK,439,151.21,GBP
+ORD-00186,2026-08-29,CUST-0147,Abbott-Morgan,SKU-9793,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,8,EU,221,33.57,EUR
+ORD-00004,2026-07-14,CUST-0050,Lamb-Harrison,SKU-6881,Corrugated Box (Small),Packaging,PackRight Ltd,40,UK,136,201.8,GBP
+ORD-00423,2026-07-21,CUST-0276,Miles-Norman,SKU-9970,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,21,EU,108,187.1,EUR
+ORD-00095,2026-06-03,CUST-0015,"Morgan, Blake and Brown",SKU-1753,M8 Washer,Fasteners,PackRight Ltd,5,UK,151,89.68,GBP
+ORD-00205,2026-06-02,CUST-0291,"Patel, Sanders and Clarke",SKU-2758,Corrugated Box (Small),Packaging,PackRight Ltd,20,UK,233,247.28,GBP
+ORD-00537,2026-03-02,CUST-0095,Wood-Lawrence,SKU-6203,Hex Nut Pack,Fasteners,CircuitSource UK,3,EU,392,79.74,EUR
+ORD-00193,2026-09-03,CUST-0088,Burton PLC,SKU-9589,PCB Relay,Electronics,ToolForge Ltd,26,UK,76,205.43,GBP
+ORD-00379,2026-02-21,CUST-0267,Martin Inc,SKU-5423,M8 Washer,Fasteners,ToolForge Ltd,40,US,359,34.38,USD
+ORD-00414,2026-09-01,CUST-0288,Clarke Group,SKU-1144,PCB Relay,Electronics,Bolt Supplies Ltd,44,EU,178,111.47,EUR
+ORD-00751,2026-09-26,CUST-0043,"Griffin, Williams and Lewis",SKU-5762,USB-C Connector,Electronics,AdhesiCo,29,EU,41,226.81,EUR
+ORD-00054,2026-04-23,CUST-0250,Webb-Marsden,SKU-4595,Double-Sided Tape,Adhesives,PackRight Ltd,29,EU,249,7.35,EUR
+ORD-00548,2026-05-09,CUST-0166,Herbert-Roberts,SKU-3686,USB-C Connector,Electronics,Bolt Supplies Ltd,7,UK,59,176.59,GBP
+ORD-00377,2026-05-11,CUST-0274,"Hyde, Murray and Shah",SKU-1796,M8 Washer,Fasteners,ToolForge Ltd,5,EU,339,27.12,EUR
+ORD-00247,2026-02-12,CUST-0138,Pearson Group,SKU-3526,PCB Relay,Electronics,AdhesiCo,42,UK,79,184.94,GBP
+ORD-00123,2026-04-25,CUST-0056,Savage Group,SKU-6736,PCB Relay,Electronics,ToolForge Ltd,25,US,59,190.68,USD
+ORD-00110,2026-08-16,CUST-0121,Nicholls-Evans,SKU-6942,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,45,US,189,136.16,USD
+ORD-00520,2026-03-20,CUST-0026,Dawson-Moran,SKU-7436,Allen Key Set,Tooling,AdhesiCo,40,UK,295,126.23,GBP
+ORD-00778,2026-05-24,CUST-0271,Jackson-Dobson,SKU-3406,Bubble Wrap Roll,Packaging,AdhesiCo,30,UK,330,51.36,GBP
+ORD-00395,2026-08-31,CUST-0187,Carter LLC,SKU-8414,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,8,EU,,164.76,EUR
+ORD-00477,2026-05-27,CUST-0238,"Johnson, Moore and Davies",SKU-3373,Epoxy Resin 50ml,Adhesives,CircuitSource UK,42,US,414,232.15,USD
+ORD-00115,2026-02-02,CUST-0244,Welch Inc,SKU-8344,Torque Wrench,Tooling,PackRight Ltd,34,EU,304,27.35,EUR
+ORD-00490,2026-08-22,CUST-0232,Hayes Group,SKU-5458,Corrugated Box (Small),Packaging,ToolForge Ltd,33,EU,97,80.23,EUR
+ORD-00773,2026-08-13,CUST-0213,Taylor PLC,SKU-1107,10k Resistor,Electronics,CircuitSource UK,32,UK,175,71.76,GBP
+ORD-00113,2026-01-02,CUST-0142,Roberts Ltd,SKU-3370,USB-C Connector,Electronics,CircuitSource UK,36,UK,129,199.65,GBP
+ORD-00604,2026-07-19,CUST-0243,"Pearson, Hopkins and Morgan",SKU-5302,Torque Wrench,Tooling,CircuitSource UK,35,US,446,108.74,USD
+ORD-00022,2026-02-08,CUST-0227,"Lewis, Smith and James",SKU-2604,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,43,UK,277,209.02,GBP
+ORD-00746,2026-01-25,CUST-0145,Walton Ltd,SKU-6294,Torque Wrench,Tooling,Bolt Supplies Ltd,6,UK,281,237.98,GBP
+ORD-00449,2026-07-29,CUST-0132,"Hughes, Macdonald and Moore",SKU-4096,M8 Washer,Fasteners,Bolt Supplies Ltd,2,EU,296,130.68,EUR
+ORD-00233,2026-08-02,CUST-0152,Clarke-Stone,SKU-3497,10k Resistor,Electronics,CircuitSource UK,23,US,118,95.02,USD
+ORD-00557,2026-05-30,CUST-0242,Frost LLC,SKU-3204,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,19,UK,169,131.81,GBP
+ORD-00605,2026-06-11,CUST-0272,Clarke Group,SKU-1672,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,36,EU,327,88.52,EUR
+ORD-00597,2026-08-04,CUST-0181,"Barton, Carter and Smith",SKU-5827,Allen Key Set,Tooling,PackRight Ltd,12,US,19,173.79,USD
+ORD-00664,2026-08-07,CUST-0190,Marsden and Sons,SKU-7326,Bubble Wrap Roll,Packaging,PackRight Ltd,2,UK,146,86.3,GBP
+ORD-00154,2026-01-20,CUST-0147,"Carter, Butler and Baker",SKU-8740,Corrugated Box (Small),Packaging,CircuitSource UK,32,UK,230,153.88,GBP
+ORD-00316,2026-07-27,CUST-0232,Wong Ltd,SKU-5093,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,31,UK,53,200.99,GBP
+ORD-00768,2026-06-05,CUST-0121,Hall LLC,SKU-4431,M8 Washer,Fasteners,ToolForge Ltd,5,US,10,89.76,USD
+ORD-00290,2026-03-19,CUST-0211,Baxter LLC,SKU-8248,PCB Relay,Electronics,CircuitSource UK,7,EU,460,25.21,EUR
+ORD-00770,2026-07-01,CUST-0024,Holt-Evans,SKU-5382,Cyanoacrylate Glue,Adhesives,CircuitSource UK,34,US,310,167.4,USD
+ORD-00437,2026-09-24,CUST-0141,Miles-Allen,SKU-5314,Corrugated Box (Small),Packaging,ToolForge Ltd,36,EU,292,43.55,EUR
+ORD-00170,2026-04-06,CUST-0256,Higgins-Richardson,SKU-9482,"M6 Bolt, Stainless",Fasteners,AdhesiCo,37,EU,61,65.52,EUR
+ORD-00480,2026-05-01,CUST-0129,Todd PLC,SKU-2311,10k Resistor,Electronics,CircuitSource UK,12,UK,204,25.84,GBP
+ORD-00748,2026-09-09,CUST-0222,Freeman and Sons,SKU-6080,10k Resistor,Electronics,ToolForge Ltd,10,US,184,166.41,USD
+ORD-00671,2026-07-05,CUST-0298,Bentley-Martin,SKU-8872,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,29,EU,445,64.55,EUR
+ORD-00355,2026-04-09,CUST-0103,Kerr Ltd,SKU-1944,Torque Wrench,Tooling,CircuitSource UK,4,UK,234,12.73,GBP
+ORD-00356,2026-08-26,CUST-0259,Davey-Leach,SKU-7503,USB-C Connector,Electronics,Bolt Supplies Ltd,45,US,16,60.56,USD
+ORD-00244,2026-06-19,CUST-0197,Conway-Reid,SKU-3292,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,34,EU,382,243.58,EUR
+ORD-00733,2026-08-23,CUST-0044,Owens Inc,SKU-1169,Pallet Wrap,Packaging,AdhesiCo,10,EU,447,80.88,EUR
+ORD-00097,2026-04-29,CUST-0237,Smith-Jones,SKU-5161,Double-Sided Tape,Adhesives,AdhesiCo,18,UK,342,2.45,GBP
+ORD-00661,2026-01-13,CUST-0206,Fox-Ali,SKU-4610,Torque Wrench,Tooling,AdhesiCo,24,US,48,81.66,USD
+ORD-00036,2026-07-31,CUST-0013,"Hicks, Armstrong and Khan",SKU-3938,10k Resistor,Electronics,PackRight Ltd,28,UK,411,167.51,GBP
+ORD-00706,2026-02-17,CUST-0297,Kent PLC,SKU-2552,PCB Relay,Electronics,ToolForge Ltd,23,EU,140,16.91,EUR
+ORD-00545,2026-08-14,CUST-0204,Smith-Bailey,SKU-5989,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,31,US,86,105.67,USD
+ORD-00466,2026-02-24,CUST-0062,"Thorpe, Holmes and Jenkins",SKU-2285,Digital Caliper,Tooling,AdhesiCo,41,UK,4,191.08,GBP
+ORD-00328,2026-04-14,CUST-0067,Jackson-Hughes,SKU-6582,M8 Washer,Fasteners,CircuitSource UK,22,EU,31,5.58,EUR
+ORD-00103,2026-08-01,CUST-0090,Brown-Francis,SKU-4289,Bubble Wrap Roll,Packaging,CircuitSource UK,36,EU,449,242.88,EUR
+ORD-00101,2026-06-30,CUST-0113,Winter Group,SKU-4115,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,18,UK,348,188.92,GBP
+ORD-00177,2026-04-26,CUST-0178,Hayward Inc,SKU-9501,10k Resistor,Electronics,PackRight Ltd,7,US,129,49.16,USD
+ORD-00217,2026-01-17,CUST-0147,"Hawkins, Williams and Thomas",SKU-7698,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,10,US,393,160.42,USD
+ORD-00028,2026-06-03,CUST-0235,Gallagher and Sons,SKU-6180,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,2,UK,235,155.33,GBP
+ORD-00440,2026-03-22,CUST-0186,"Harrison, Walker and Lynch",SKU-2938,10k Resistor,Electronics,CircuitSource UK,28,UK,416,82.62,GBP
+ORD-00741,2026-07-02,CUST-0288,Pritchard-Harris,SKU-8949,Epoxy Resin 50ml,Adhesives,AdhesiCo,33,US,58,211.48,USD
+ORD-00428,2026-08-08,CUST-0087,Brown PLC,SKU-1079,Digital Caliper,Tooling,PackRight Ltd,17,US,403,55.46,USD
+ORD-00420,2026-01-04,CUST-0033,Allen-Parkes,SKU-1745,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,24,UK,476,125.76,GBP
+ORD-00260,2026-02-24,CUST-0006,Brookes-Johnson,SKU-2615,Cyanoacrylate Glue,Adhesives,PackRight Ltd,16,US,262,186.74,USD
+ORD-00122,2026-08-05,CUST-0027,Adams PLC,SKU-5712,M8 Washer,Fasteners,ToolForge Ltd,21,US,181,25.99,USD
+ORD-00208,2026-02-14,CUST-0206,Holmes and Sons,SKU-2562,Double-Sided Tape,Adhesives,CircuitSource UK,10,US,245,80.97,USD
+ORD-00750,2026-08-11,CUST-0219,Gilbert LLC,SKU-2522,Pallet Wrap,Packaging,Bolt Supplies Ltd,34,UK,175,243.32,GBP
+ORD-00544,2026-05-06,CUST-0266,Buckley Group,SKU-9812,Cyanoacrylate Glue,Adhesives,AdhesiCo,4,UK,286,96.91,GBP
+ORD-00540,2026-07-11,CUST-0095,"Atkinson, Williams and Myers",SKU-7348,Allen Key Set,Tooling,AdhesiCo,32,US,71,41.03,USD
+ORD-00301,2026-02-02,CUST-0135,Long LLC,SKU-2262,Cyanoacrylate Glue,Adhesives,AdhesiCo,31,EU,262,90.09,EUR
+ORD-00642,2026-07-03,CUST-0152,Benson-French,SKU-4916,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,3,UK,246,167.29,GBP
+ORD-00713,2026-04-14,CUST-0082,"Lees, Lyons and Davies",SKU-5468,Double-Sided Tape,Adhesives,CircuitSource UK,3,UK,133,197.44,GBP
+ORD-00497,2026-08-11,CUST-0167,"Morris, Wilkinson and Cooper",SKU-1246,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,19,EU,300,30.0,EUR
+ORD-00189,2026-09-18,CUST-0206,Knight-Jones,SKU-9193,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,4,UK,20,34.35,GBP
+ORD-00516,2026-05-12,CUST-0154,Young-Webb,SKU-2505,Torque Wrench,Tooling,ToolForge Ltd,27,UK,292,229.48,GBP
+ORD-00352,2026-02-20,CUST-0117,Morgan-Gardner,SKU-3201,Bubble Wrap Roll,Packaging,PackRight Ltd,30,US,397,206.47,USD
+ORD-00317,2026-03-08,CUST-0102,Hewitt-Holland,SKU-7563,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,45,UK,323,234.4,GBP
+ORD-00481,2026-01-14,CUST-0204,Wood-Black,SKU-9584,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,8,UK,135,154.56,GBP
+ORD-00151,2026-07-10,CUST-0284,Reid-Elliott,SKU-2680,Hex Nut Pack,Fasteners,ToolForge Ltd,9,US,146,21.06,USD
+ORD-00150,2026-09-15,CUST-0271,Carey Inc,SKU-7859,Cyanoacrylate Glue,Adhesives,CircuitSource UK,14,US,411,151.21,USD
+ORD-00595,2026-09-22,CUST-0041,Brown-Moore,SKU-9574,Digital Caliper,Tooling,ToolForge Ltd,7,US,126,118.17,USD
+ORD-00678,2026-06-09,CUST-0186,Taylor-Turner,SKU-3277,M8 Washer,Fasteners,AdhesiCo,40,US,268,190.92,USD
+ORD-00447,08/03/2026,CUST-0277,"Higgins, Bailey and Jones",SKU-1019,"M6 Bolt, Stainless",Fasteners,AdhesiCo,35,US,216,92.66,USD
+ORD-00320,2026-03-30,CUST-0182,Winter and Sons,SKU-4517,Double-Sided Tape,Adhesives,CircuitSource UK,19,US,144,111.56,USD
+ORD-00653,2026-09-24,CUST-0172,"Collier, Marsden and Begum",SKU-7745,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,23,UK,336,161.55,GBP
+ORD-00766,2026-08-28,CUST-0068,"Hall, Jackson and Watts",SKU-5806,Pallet Wrap,Packaging,AdhesiCo,28,EU,427,235.31,EUR
+ORD-00046,2026-05-01,CUST-0159,Kaur-Little,SKU-4680,Digital Caliper,Tooling,CircuitSource UK,11,UK,13,11.65,GBP
+ORD-00141,2026-09-25,CUST-0082,"Fry, Shaw and Moore",SKU-6962,Cyanoacrylate Glue,Adhesives,PackRight Ltd,20,EU,199,102.25,EUR
+ORD-00249,2026-07-28,CUST-0053,Evans Inc,SKU-1430,Allen Key Set,Tooling,Bolt Supplies Ltd,24,EU,284,23.36,EUR
+ORD-00191,2026-09-17,CUST-0261,"Thomas, Willis and Thornton",SKU-9721,Pallet Wrap,Packaging,AdhesiCo,38,US,,118.78,USD
+ORD-00683,2026-03-24,CUST-0257,Townsend-Clarke,SKU-4962,Digital Caliper,Tooling,ToolForge Ltd,38,US,35,24.87,USD
+ORD-00493,2026-07-20,CUST-0037,Scott-Bradley,SKU-9899,10k Resistor,Electronics,AdhesiCo,13,US,99,223.94,USD
+ORD-00432,2026-03-18,CUST-0188,Morrison LLC,SKU-7430,Digital Caliper,Tooling,CircuitSource UK,39,EU,376,214.31,EUR
+ORD-00364,2026-06-01,CUST-0133,"Matthews, Smith and Sanders",SKU-7857,Hex Nut Pack,Fasteners,AdhesiCo,26,US,378,8.93,USD
+ORD-00263,2026-08-13,CUST-0232,Evans-Ward,SKU-6225,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,21,UK,23,202.57,GBP
+ORD-00522,2026-08-11,CUST-0067,Daly PLC,SKU-3209,M8 Washer,Fasteners,AdhesiCo,37,EU,102,122.02,EUR
+ORD-00130,2026-05-29,CUST-0168,"Ali, Palmer and Smith",SKU-2965,10k Resistor,Electronics,Bolt Supplies Ltd,33,US,383,107.72,USD
+ORD-00786,2026-09-27,CUST-0207,"Griffin, Bray and Barker",SKU-9502,Epoxy Resin 50ml,Adhesives,AdhesiCo,18,US,300,124.76,USD
+ORD-00070,2026-04-10,CUST-0152,Dawson-Clarke,SKU-4727,Digital Caliper,Tooling,PackRight Ltd,13,UK,155,3.64,GBP
+ORD-00013,2026-09-17,CUST-0055,Whittaker-Lewis,SKU-5889,Pallet Wrap,Packaging,ToolForge Ltd,40,UK,102,38.29,GBP
+ORD-00106,15/05/2026,CUST-0300,Cox-Phillips,SKU-7242,Pallet Wrap,Packaging,PackRight Ltd,8,EU,346,58.53,EUR
+ORD-00585,2026-07-14,CUST-0168,"Williams, Smith and Atkinson",SKU-9098,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,7,EU,112,204.28,EUR
+ORD-00684,2026-04-09,CUST-0145,Mason Inc,SKU-3814,Hex Nut Pack,Fasteners,ToolForge Ltd,2,UK,499,181.36,GBP
+ORD-00721,2026-08-15,CUST-0199,"Coates, Knight and Hill",SKU-1128,Hex Nut Pack,Fasteners,AdhesiCo,18,UK,155,22.65,GBP
+ORD-00650,2026-07-08,CUST-0034,Watts-Forster,SKU-4085,Bubble Wrap Roll,Packaging,AdhesiCo,7,EU,42,97.73,EUR
+ORD-00549,2026-07-16,CUST-0262,Wright and Sons,SKU-3619,Hex Nut Pack,Fasteners,AdhesiCo,37,EU,195,11.07,EUR
+ORD-00027,2026-02-11,CUST-0215,Turner-Smith,SKU-9565,Allen Key Set,Tooling,PackRight Ltd,18,UK,105,167.46,GBP
+ORD-00348,2026-09-25,CUST-0215,Riley Ltd,SKU-2843,Epoxy Resin 50ml,Adhesives,AdhesiCo,11,EU,76,141.69,EUR
+ORD-00797,2026-08-16,CUST-0044,Woodward Inc,SKU-9741,Corrugated Box (Small),Packaging,ToolForge Ltd,22,UK,206,147.26,GBP
+ORD-00439,2026-01-04,CUST-0257,Whitehead Inc,SKU-3276,Bubble Wrap Roll,Packaging,AdhesiCo,12,US,118,19.36,USD
+ORD-00772,2026-05-30,CUST-0227,Marsh-O'Brien,SKU-9288,Corrugated Box (Small),Packaging,AdhesiCo,8,EU,79,161.81,EUR
+ORD-00394,2026-06-05,CUST-0261,Smith Ltd,SKU-4389,Allen Key Set,Tooling,AdhesiCo,23,EU,187,206.35,EUR
+ORD-00631,2026-08-26,CUST-0107,Pope-Cooke,SKU-5528,Allen Key Set,Tooling,Bolt Supplies Ltd,14,UK,58,199.17,GBP
+ORD-00011,2026-03-23,CUST-0217,Williams-Moore,SKU-2040,"M6 Bolt, Stainless",Fasteners,AdhesiCo,26,UK,306,249.03,GBP
+ORD-00239,2026-05-10,CUST-0182,Cross Inc,SKU-5379,PCB Relay,Electronics,AdhesiCo,7,EU,192,239.83,EUR
+ORD-00421,2026-05-25,CUST-0225,Chapman-McDonald,SKU-7249,Pallet Wrap,Packaging,AdhesiCo,44,UK,16,118.55,GBP
+ORD-00099,2026-04-12,CUST-0197,"Ellis, Potter and Williams",SKU-8916,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,17,US,196,143.02,USD
+ORD-00412,2026-07-03,CUST-0038,Sutton PLC,SKU-6207,Bubble Wrap Roll,Packaging,ToolForge Ltd,16,EU,490,46.05,EUR
+ORD-00391,2026-09-09,CUST-0165,Bradshaw-Rowe,SKU-4946,Epoxy Resin 50ml,Adhesives,PackRight Ltd,19,UK,26,126.78,GBP
+ORD-00302,2026-03-22,CUST-0131,"Graham, Bird and Baldwin",SKU-2685,Torque Wrench,Tooling,ToolForge Ltd,45,US,371,28.92,USD
+ORD-00628,2026-09-01,CUST-0065,Brady-Davies,SKU-4377,Digital Caliper,Tooling,CircuitSource UK,42,US,139,130.82,USD
+ORD-00058,2026-01-16,CUST-0127,Baxter-Jones,SKU-4266,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,41,UK,79,59.71,GBP
+ORD-00105,2026-07-23,CUST-0286,George and Sons,SKU-6992,PCB Relay,Electronics,Bolt Supplies Ltd,27,EU,8,66.19,EUR
+ORD-00771,2026-02-24,CUST-0053,Moore LLC,SKU-1687,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,8,UK,86,157.52,GBP
+ORD-00590,2026-04-07,CUST-0285,Higgins-Reid,SKU-7301,USB-C Connector,Electronics,PackRight Ltd,28,UK,79,72.19,GBP
+ORD-00309,2026-07-12,CUST-0158,McDonald Inc,SKU-2703,M8 Washer,Fasteners,CircuitSource UK,35,UK,122,105.01,GBP
+ORD-00057,2026-05-10,CUST-0042,Collins and Sons,SKU-8705,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,36,US,27,249.98,USD
+ORD-00453,2026-08-17,CUST-0083,Rees and Sons,SKU-2642,Hex Nut Pack,Fasteners,CircuitSource UK,34,UK,206,196.54,GBP
+ORD-00064,2026-05-23,CUST-0231,"Lawrence, Akhtar and Bennett",SKU-4995,Corrugated Box (Small),Packaging,AdhesiCo,38,UK,313,167.08,GBP
+ORD-00643,2026-01-13,CUST-0233,Turner Inc,SKU-8598,Double-Sided Tape,Adhesives,CircuitSource UK,27,EU,95,197.49,EUR
+ORD-00644,2026-01-01,CUST-0037,Campbell-Hopkins,SKU-7305,Double-Sided Tape,Adhesives,PackRight Ltd,35,EU,17,74.22,EUR
+ORD-00321,2026-05-06,CUST-0152,Carroll Inc,SKU-9173,Allen Key Set,Tooling,AdhesiCo,37,EU,246,15.34,EUR
+ORD-00387,2026-09-05,CUST-0292,Cole and Sons,SKU-8178,10k Resistor,Electronics,CircuitSource UK,41,US,195,194.81,USD
+ORD-00035,2026-05-08,CUST-0053,Morley-Smith,SKU-6794,M8 Washer,Fasteners,ToolForge Ltd,28,UK,499,155.2,GBP
+ORD-00521,2026-03-09,CUST-0173,Wilson PLC,SKU-2352,Bubble Wrap Roll,Packaging,AdhesiCo,38,UK,382,12.42,GBP
+ORD-00088,2026-09-17,CUST-0137,Richards-Clark,SKU-1042,Bubble Wrap Roll,Packaging,PackRight Ltd,21,US,429,146.78,USD
+ORD-00687,2026-01-21,CUST-0043,Clarke-Rose,SKU-6375,Pallet Wrap,Packaging,AdhesiCo,9,US,198,70.97,USD
+ORD-00458,22/05/2026,CUST-0205,Harris LLC,SKU-6785,"M6 Bolt, Stainless",Fasteners,AdhesiCo,27,UK,301,50.16,GBP
+ORD-00098,2026-03-22,CUST-0038,"Cook, Hartley and Weston",SKU-8237,Pallet Wrap,Packaging,PackRight Ltd,39,EU,154,159.77,EUR
+ORD-00450,2026-06-11,CUST-0210,Harrison Group,SKU-6935,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,11,UK,219,162.93,GBP
+ORD-00075,2026-04-17,CUST-0109,"Bailey, Brooks and Jackson",SKU-5335,Allen Key Set,Tooling,Bolt Supplies Ltd,12,UK,123,43.54,GBP
+ORD-00243,2026-01-09,CUST-0107,"Vaughan, Smith and Patel",SKU-3362,"M6 Bolt, Stainless",Fasteners,AdhesiCo,6,US,154,40.7,USD
+ORD-00533,2026-05-12,CUST-0199,Hawkins and Sons,SKU-1482,Digital Caliper,Tooling,ToolForge Ltd,19,UK,116,38.01,GBP
+ORD-00342,2026-08-17,CUST-0023,"Armstrong, Hill and Hughes",SKU-5313,Cyanoacrylate Glue,Adhesives,AdhesiCo,31,UK,135,56.64,GBP
+ORD-00056,2026-04-04,CUST-0026,Ingram Group,SKU-5262,Epoxy Resin 50ml,Adhesives,AdhesiCo,22,US,109,113.73,USD
+ORD-00349,2026-02-21,CUST-0147,Smith-Wood,SKU-9775,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,28,EU,136,95.82,EUR
+ORD-00245,2026-06-24,CUST-0204,Allen LLC,SKU-6347,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,42,UK,140,195.91,GBP
+ORD-00485,15/02/2026,CUST-0227,Booth-Smith,SKU-6044,Double-Sided Tape,Adhesives,PackRight Ltd,28,UK,134,39.01,GBP
+ORD-00111,2026-05-22,CUST-0098,Roberts-Wallace,SKU-3001,Corrugated Box (Small),Packaging,AdhesiCo,7,US,340,53.11,USD
+ORD-00254,2026-06-21,CUST-0221,Hussain-Young,SKU-3230,Cyanoacrylate Glue,Adhesives,PackRight Ltd,22,US,309,236.83,USD
+ORD-00762,2026-08-10,CUST-0213,"Ford, Payne and Harrison",SKU-9121,Corrugated Box (Small),Packaging,ToolForge Ltd,40,UK,375,138.62,GBP
+ORD-00606,2026-06-21,CUST-0139,"Burns, Butler and Moore",SKU-5375,Allen Key Set,Tooling,Bolt Supplies Ltd,18,US,336,146.09,USD
+ORD-00025,2026-06-10,CUST-0030,Lord and Sons,SKU-1821,Torque Wrench,Tooling,ToolForge Ltd,32,EU,258,229.85,EUR
+ORD-00738,2026-07-04,CUST-0221,Ryan-Williams,SKU-5635,Cyanoacrylate Glue,Adhesives,PackRight Ltd,41,EU,425,190.41,EUR
+ORD-00492,2026-06-25,CUST-0216,,SKU-6104,M8 Washer,Fasteners,AdhesiCo,25,UK,238,174.26,GBP
+ORD-00029,2026-04-20,CUST-0260,Bennett LLC,SKU-5345,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,24,EU,452,17.29,EUR
+ORD-00100,22/07/2026,CUST-0141,Campbell-Harris,SKU-1132,Corrugated Box (Small),Packaging,ToolForge Ltd,45,EU,399,186.19,EUR
+ORD-00065,2026-09-07,CUST-0109,Welch-Hewitt,SKU-6813,Cyanoacrylate Glue,Adhesives,PackRight Ltd,23,UK,144,220.09,GBP
+ORD-00319,2026-08-25,CUST-0026,Woods-Evans,SKU-3752,Corrugated Box (Small),Packaging,ToolForge Ltd,29,UK,421,181.14,GBP
+ORD-00338,2026-04-16,CUST-0098,"Myers, Lewis and Davidson",SKU-7705,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,36,US,136,165.18,USD
+ORD-00169,2026-08-16,CUST-0040,Walker-Bradley,SKU-3255,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,25,US,204,78.66,USD
+ORD-00202,2026-02-21,CUST-0071,McCarthy-Lee,SKU-1084,Pallet Wrap,Packaging,ToolForge Ltd,12,US,209,163.26,USD
+ORD-00256,2026-04-13,CUST-0280,"Norris, Cunningham and Mahmood",SKU-3947,Cyanoacrylate Glue,Adhesives,ToolForge Ltd,3,UK,488,181.83,GBP
+ORD-00077,2026-05-16,CUST-0102,Ward-Wong,SKU-7965,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,36,UK,116,161.94,GBP
+ORD-00777,2026-09-24,CUST-0152,Saunders PLC,SKU-7869,PCB Relay,Electronics,AdhesiCo,45,UK,359,138.45,GBP
+ORD-00232,2026-08-29,CUST-0164,Mann Inc,SKU-4328,Cyanoacrylate Glue,Adhesives,PackRight Ltd,22,UK,212,11.52,GBP
+ORD-00026,2026-04-06,CUST-0036,Connolly Ltd,SKU-2113,Hex Nut Pack,Fasteners,CircuitSource UK,27,UK,62,235.4,GBP
+ORD-00586,2026-03-18,CUST-0232,Lloyd LLC,SKU-9704,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,26,EU,316,144.53,EUR
+ORD-00704,2026-04-16,CUST-0173,Hudson PLC,SKU-9138,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,44,EU,174,41.74,EUR
+ORD-00343,2026-02-19,CUST-0044,Taylor-Richardson,SKU-6632,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,28,EU,498,189.14,EUR
+ORD-00200,2026-05-12,CUST-0246,Hughes and Sons,SKU-4505,Bubble Wrap Roll,Packaging,CircuitSource UK,36,EU,139,233.26,EUR
+ORD-00402,2026-09-20,CUST-0154,Fry-Evans,SKU-9975,Allen Key Set,Tooling,PackRight Ltd,37,EU,324,54.41,EUR
+ORD-00006,2026-04-30,CUST-0052,Jenkins Group,SKU-7227,USB-C Connector,Electronics,PackRight Ltd,31,UK,326,208.54,GBP
+ORD-00324,2026-07-03,CUST-0300,Kemp PLC,SKU-4813,Corrugated Box (Small),Packaging,CircuitSource UK,8,US,127,164.25,USD
+ORD-00460,2026-05-14,CUST-0090,"Bibi, O'Brien and Johnson",SKU-7670,Double-Sided Tape,Adhesives,ToolForge Ltd,8,UK,287,18.19,GBP
+ORD-00635,2026-04-13,CUST-0193,"Williamson, Edwards and Nash",SKU-4615,PCB Relay,Electronics,Bolt Supplies Ltd,32,US,300,121.15,USD
+ORD-00431,2026-01-16,CUST-0298,Patel-Matthews,SKU-7637,"M6 Bolt, Stainless",Fasteners,ToolForge Ltd,15,EU,465,9.26,EUR
+ORD-00658,2026-08-18,CUST-0277,Pugh Group,SKU-3663,Corrugated Box (Small),Packaging,ToolForge Ltd,21,US,63,230.12,USD
+ORD-00049,2026-06-12,CUST-0227,Ford-Fletcher,SKU-9270,Epoxy Resin 50ml,Adhesives,AdhesiCo,37,US,229,224.31,USD
+ORD-00230,2026-04-19,CUST-0098,Matthews Group,SKU-2922,Bubble Wrap Roll,Packaging,AdhesiCo,17,UK,357,151.14,GBP
+ORD-00045,2026-04-20,CUST-0262,Davies-Stevens,SKU-8752,Cyanoacrylate Glue,Adhesives,CircuitSource UK,44,US,44,71.02,USD
+ORD-00530,2026-05-30,CUST-0198,Gibson Inc,SKU-4787,Corrugated Box (Small),Packaging,AdhesiCo,34,UK,364,24.99,GBP
+ORD-00371,2026-01-03,CUST-0232,"Hicks, Perry and Holland",SKU-5481,Pallet Wrap,Packaging,CircuitSource UK,12,UK,296,191.14,GBP
+ORD-00508,2026-05-17,CUST-0271,Baldwin-Brown,SKU-1666,Pallet Wrap,Packaging,Bolt Supplies Ltd,21,UK,40,236.16,GBP
+ORD-00478,2026-02-06,CUST-0041,Watkins-Todd,SKU-3654,Allen Key Set,Tooling,PackRight Ltd,16,US,161,79.29,USD
+ORD-00531,06/04/2026,CUST-0102,Baker-Martin,SKU-9202,Allen Key Set,Tooling,AdhesiCo,37,UK,475,178.15,GBP
+ORD-00125,15/03/2026,CUST-0290,Farmer Inc,SKU-7566,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,11,UK,380,158.33,GBP
+ORD-00638,2026-06-01,CUST-0081,"Holmes, Connolly and Butcher",SKU-3784,USB-C Connector,Electronics,ToolForge Ltd,37,UK,438,57.5,GBP
+ORD-00789,2026-02-26,CUST-0062,Jenkins-Bruce,SKU-7055,Hex Nut Pack,Fasteners,ToolForge Ltd,20,US,21,130.74,USD
+ORD-00740,2026-04-04,CUST-0019,Pearce LLC,SKU-8704,10k Resistor,Electronics,PackRight Ltd,12,UK,362,116.84,GBP
+ORD-00331,2026-05-31,CUST-0066,"Smith, Johnson and Mitchell",SKU-3911,USB-C Connector,Electronics,Bolt Supplies Ltd,38,US,201,212.7,USD
+ORD-00054,2026-04-23,CUST-0250,Webb-Marsden,SKU-4595,Double-Sided Tape,Adhesives,PackRight Ltd,29,EU,249,7.35,EUR
+ORD-00438,2026-02-09,CUST-0265,Dixon-Walker,SKU-5121,Pallet Wrap,Packaging,AdhesiCo,16,EU,265,101.52,EUR
+ORD-00745,2026-05-18,CUST-0003,"Saunders, Watson and Smith",SKU-6397,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,43,EU,319,237.73,EUR
+ORD-00465,2026-04-13,CUST-0121,Rogers PLC,SKU-4965,USB-C Connector,Electronics,PackRight Ltd,15,EU,118,50.77,EUR
+ORD-00574,2026-06-29,CUST-0282,Cook PLC,SKU-6218,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,11,EU,483,176.12,EUR
+ORD-00259,2026-02-13,CUST-0056,"Parkes, Porter and Adams",SKU-5067,Torque Wrench,Tooling,PackRight Ltd,12,US,332,153.21,USD
+ORD-00630,2026-05-01,CUST-0099,Osborne Group,SKU-2925,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,8,EU,317,90.54,EUR
+ORD-00546,2026-03-14,CUST-0238,Hill Group,SKU-8400,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,34,EU,58,45.02,EUR
+ORD-00024,2026-08-05,CUST-0285,Barnes-Smith,SKU-8973,Bubble Wrap Roll,Packaging,CircuitSource UK,14,US,152,54.5,USD
+ORD-00677,2026-09-27,CUST-0273,Mason Group,SKU-2867,Allen Key Set,Tooling,AdhesiCo,31,EU,470,19.19,EUR
+ORD-00281,2026-02-17,CUST-0207,"Mann, Thomas and Hayes",SKU-9447,Epoxy Resin 50ml,Adhesives,PackRight Ltd,25,EU,233,237.57,EUR
+ORD-00536,2026-09-26,CUST-0070,"Day, Thompson and Richardson",SKU-8046,Pallet Wrap,Packaging,CircuitSource UK,43,EU,478,141.25,EUR
+ORD-00234,2026-06-22,CUST-0132,"Thomas, Gregory and Cunningham",SKU-9005,Double-Sided Tape,Adhesives,AdhesiCo,31,EU,87,183.22,EUR
+ORD-00584,2026-08-26,CUST-0167,Lewis and Sons,SKU-2599,Digital Caliper,Tooling,AdhesiCo,13,UK,158,238.98,GBP
+ORD-00266,2026-01-03,CUST-0110,Jones-Dale,SKU-4371,Digital Caliper,Tooling,PackRight Ltd,6,US,296,25.53,USD
+ORD-00131,2026-09-14,CUST-0287,Robinson Group,SKU-6802,Allen Key Set,Tooling,Bolt Supplies Ltd,27,UK,442,185.54,GBP
+ORD-00647,2026-03-12,CUST-0172,White-Gallagher,SKU-4909,Allen Key Set,Tooling,ToolForge Ltd,9,UK,333,119.68,GBP
+ORD-00132,2026-08-08,CUST-0294,Davidson-Hughes,SKU-7626,Epoxy Resin 50ml,Adhesives,AdhesiCo,20,US,59,101.32,USD
+ORD-00603,2026-01-28,CUST-0136,"Charlton, Allen and Smith",SKU-2900,Allen Key Set,Tooling,Bolt Supplies Ltd,12,US,238,99.75,USD
+ORD-00067,2026-09-09,CUST-0230,"Spencer, Bray and Reid",SKU-1282,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,20,EU,114,101.16,EUR
+ORD-00180,2026-08-02,CUST-0016,Wall Ltd,SKU-9159,Pallet Wrap,Packaging,ToolForge Ltd,20,UK,329,239.17,GBP
+ORD-00579,2026-05-13,CUST-0187,Pearson-Thompson,SKU-7423,10k Resistor,Electronics,CircuitSource UK,44,UK,170,197.22,GBP
+ORD-00618,2026-01-21,CUST-0197,Carr-Ward,SKU-4129,10k Resistor,Electronics,PackRight Ltd,26,EU,459,26.78,EUR
+ORD-00580,2026-02-03,CUST-0244,Jones-Sanderson,SKU-2849,Cyanoacrylate Glue,Adhesives,PackRight Ltd,32,UK,237,211.46,GBP
+ORD-00199,2026-07-14,CUST-0203,"Marshall, Hale and Wright",SKU-6654,Corrugated Box (Small),Packaging,CircuitSource UK,20,EU,22,71.98,EUR
+ORD-00566,2026-06-19,CUST-0182,Hilton LLC,SKU-2084,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,19,EU,431,7.89,EUR
+ORD-00175,2026-03-06,CUST-0163,Jones Group,SKU-2215,Double-Sided Tape,Adhesives,AdhesiCo,31,UK,349,129.39,GBP
+ORD-00670,2026-05-28,CUST-0214,"Goddard, Walsh and Williams",SKU-3938,Epoxy Resin 50ml,Adhesives,AdhesiCo,43,EU,126,7.21,EUR
+ORD-00785,2026-08-06,CUST-0211,Smith-Pugh,SKU-2342,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,5,UK,218,222.14,GBP
+ORD-00583,2026-08-09,CUST-0223,Rogers LLC,SKU-6606,M8 Washer,Fasteners,ToolForge Ltd,17,UK,89,165.69,GBP
+ORD-00285,2026-06-04,CUST-0082,Jones-Ross,SKU-5489,PCB Relay,Electronics,Bolt Supplies Ltd,43,UK,185,62.67,GBP
+ORD-00114,2026-07-03,CUST-0122,"Allen, Wright and Phillips",SKU-6304,"M6 Bolt, Stainless",Fasteners,Bolt Supplies Ltd,13,UK,136,13.19,GBP
+ORD-00406,2026-01-17,CUST-0184,Jones and Sons,SKU-8415,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,41,EU,445,168.91,EUR
+ORD-00654,2026-08-16,CUST-0235,Davies Group,SKU-5982,Allen Key Set,Tooling,ToolForge Ltd,10,EU,460,197.36,EUR
+ORD-00201,2026-05-03,CUST-0125,"White, Jarvis and Davies",SKU-1831,10k Resistor,Electronics,ToolForge Ltd,16,EU,327,58.29,EUR
+ORD-00008,2026-06-16,CUST-0029,Lawrence Inc,SKU-4752,Torque Wrench,Tooling,Bolt Supplies Ltd,22,EU,206,67.01,EUR
+ORD-00215,2026-09-20,CUST-0213,"O'Neill, Roberts and George",SKU-8484,M8 Washer,Fasteners,ToolForge Ltd,5,UK,287,115.65,GBP
+ORD-00621,2026-04-19,CUST-0268,"Begum, Davis and Stokes",SKU-8509,M8 Washer,Fasteners,ToolForge Ltd,11,UK,380,144.88,GBP
+ORD-00505,2026-09-25,CUST-0035,Adams PLC,SKU-1717,Corrugated Box (Small),Packaging,CircuitSource UK,13,UK,448,7.92,GBP
+ORD-00727,2026-02-13,CUST-0213,Humphries-Williams,SKU-7022,Bubble Wrap Roll,Packaging,CircuitSource UK,27,UK,449,94.39,GBP
+ORD-00038,2026-01-13,CUST-0099,"Harris, George and Griffin",SKU-7528,Corrugated Box (Small),Packaging,PackRight Ltd,19,UK,443,17.45,GBP
+ORD-00372,2026-08-11,CUST-0220,"Atkins, Morley and Harper",SKU-7609,"M6 Bolt, Stainless",Fasteners,AdhesiCo,32,EU,197,1.27,EUR
+ORD-00506,2026-07-18,CUST-0251,"Owen, Parker and Rose",SKU-9615,10k Resistor,Electronics,ToolForge Ltd,39,UK,132,12.37,GBP
+ORD-00385,2026-08-13,CUST-0138,Martin PLC,SKU-2522,USB-C Connector,Electronics,PackRight Ltd,23,US,94,28.55,USD
+ORD-00681,2026-08-29,CUST-0061,Gould-Pearson,SKU-5145,Allen Key Set,Tooling,Bolt Supplies Ltd,6,UK,155,166.93,GBP
+ORD-00311,2026-09-16,CUST-0069,Lawrence-Fox,SKU-7461,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,39,UK,291,15.66,GBP
+ORD-00641,2026-07-21,CUST-0246,Evans-Thomas,SKU-2605,Torque Wrench,Tooling,AdhesiCo,33,US,124,20.86,USD
+ORD-00629,2026-01-20,CUST-0093,"Turner, Byrne and Moore",SKU-9190,PCB Relay,Electronics,ToolForge Ltd,7,EU,322,206.64,EUR
+ORD-00093,2026-07-23,CUST-0042,Begum and Sons,SKU-6383,Bubble Wrap Roll,Packaging,ToolForge Ltd,26,EU,489,79.23,EUR
+ORD-00197,2026-04-09,CUST-0127,"Cole, Berry and Hamilton",SKU-5571,Pallet Wrap,Packaging,ToolForge Ltd,21,US,116,235.38,USD
+ORD-00691,2026-08-06,CUST-0256,Williams-Berry,SKU-5563,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,39,UK,140,189.1,GBP
+ORD-00288,2026-02-15,CUST-0053,"Jones, Wood and Moore",SKU-2690,"M6 Bolt, Stainless",Fasteners,PackRight Ltd,25,US,452,74.88,USD
+ORD-00021,2026-06-23,CUST-0056,"Brady, Wilson and Fox",SKU-5073,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,14,US,275,112.21,USD
+ORD-00227,2026-03-15,CUST-0238,Jones LLC,SKU-1944,USB-C Connector,Electronics,ToolForge Ltd,28,EU,496,104.19,EUR
+ORD-00712,2026-03-18,CUST-0099,Hill Inc,SKU-1453,Epoxy Resin 50ml,Adhesives,CircuitSource UK,21,UK,238,121.4,GBP
+ORD-00761,2026-01-11,CUST-0231,Hayes LLC,SKU-4975,Cyanoacrylate Glue,Adhesives,CircuitSource UK,20,US,292,207.38,USD
+ORD-00198,2026-09-08,CUST-0163,Baldwin-Edwards,SKU-8861,Pallet Wrap,Packaging,PackRight Ltd,37,UK,479,233.63,GBP
+ORD-00380,2026-03-02,CUST-0145,Walker-Wilson,SKU-2867,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,33,EU,102,152.29,EUR
+ORD-00474,2026-01-25,CUST-0204,Davison-Davies,SKU-2621,Cyanoacrylate Glue,Adhesives,CircuitSource UK,5,US,111,203.47,USD
+ORD-00128,2026-08-15,CUST-0213,Chamberlain-Parker,SKU-5475,Cyanoacrylate Glue,Adhesives,CircuitSource UK,34,EU,59,86.36,EUR
+ORD-00009,2026-04-19,CUST-0256,Sykes-Thompson,SKU-7482,Allen Key Set,Tooling,AdhesiCo,11,US,136,34.99,USD
+ORD-00182,2026-06-13,CUST-0177,Baxter-O'Donnell,SKU-7532,USB-C Connector,Electronics,CircuitSource UK,25,EU,264,140.46,EUR
+ORD-00397,2026-04-11,CUST-0097,Lewis-Stevens,SKU-2978,Epoxy Resin 50ml,Adhesives,AdhesiCo,15,US,235,206.16,USD
+ORD-00367,2026-04-24,CUST-0182,"Townsend, White and Harris",SKU-4659,Pallet Wrap,Packaging,PackRight Ltd,28,UK,404,221.72,GBP
+ORD-00616,2026-01-02,CUST-0197,Little Group,SKU-8898,Hex Nut Pack,Fasteners,Bolt Supplies Ltd,38,UK,275,233.77,GBP
+ORD-00386,2026-09-02,CUST-0216,Campbell-Walker,SKU-3732,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,10,US,357,181.63,USD
+ORD-00362,2026-06-22,CUST-0142,Sutton LLC,SKU-6327,M8 Washer,Fasteners,PackRight Ltd,18,UK,336,177.8,GBP
+ORD-00127,2026-01-27,CUST-0080,"Henderson, Goddard and Reynolds",SKU-3579,Allen Key Set,Tooling,ToolForge Ltd,5,UK,346,20.49,GBP
+ORD-00711,2026-04-15,CUST-0212,"Wilkins, Riley and Parsons",SKU-5373,Corrugated Box (Small),Packaging,PackRight Ltd,43,EU,83,64.19,EUR
+ORD-00456,2026-09-24,CUST-0147,Hope-Hughes,SKU-1941,Double-Sided Tape,Adhesives,CircuitSource UK,42,EU,254,109.8,EUR
+ORD-00688,2026-04-26,CUST-0284,Powell-Murray,SKU-7672,Pallet Wrap,Packaging,PackRight Ltd,29,US,97,214.21,USD
+ORD-00032,2026-05-09,CUST-0027,Jones PLC,SKU-2512,Pallet Wrap,Packaging,AdhesiCo,19,US,23,0.99,USD
+ORD-00705,2026-02-08,CUST-0275,"Archer, Hill and Cartwright",SKU-4507,Epoxy Resin 50ml,Adhesives,PackRight Ltd,18,US,25,74.4,USD
+ORD-00080,2026-04-28,CUST-0295,"Williams, Jarvis and Collins",SKU-1339,Corrugated Box (Small),Packaging,PackRight Ltd,38,UK,21,190.8,GBP
+ORD-00667,2026-07-12,CUST-0046,Richardson-Wright,SKU-1108,Corrugated Box (Small),Packaging,AdhesiCo,42,EU,469,68.4,EUR
+ORD-00665,2026-04-21,CUST-0228,"Smith, White and Browne",SKU-7809,Double-Sided Tape,Adhesives,AdhesiCo,20,UK,84,201.44,GBP
+ORD-00084,2026-01-27,CUST-0105,Jones-Howarth,SKU-5375,Double-Sided Tape,Adhesives,ToolForge Ltd,10,US,475,72.08,USD
+ORD-00552,2026-09-10,CUST-0122,"Clarke, Pritchard and May",SKU-4553,Double-Sided Tape,Adhesives,ToolForge Ltd,44,UK,244,113.49,GBP
+ORD-00403,2026-03-09,CUST-0092,Powell PLC,SKU-9255,Pallet Wrap,Packaging,ToolForge Ltd,42,US,166,177.62,USD
+ORD-00501,2026-05-31,CUST-0278,Evans-Brown,SKU-9029,Double-Sided Tape,Adhesives,CircuitSource UK,38,US,96,135.95,USD
+ORD-00742,2026-04-15,CUST-0146,Moran-Jones,SKU-3959,M8 Washer,Fasteners,CircuitSource UK,34,UK,422,68.27,GBP
+ORD-00424,2026-09-20,CUST-0073,Henderson-Smith,SKU-3637,Corrugated Box (Small),Packaging,CircuitSource UK,16,US,316,208.7,USD
+ORD-00178,2026-06-05,CUST-0274,Burns Group,SKU-2530,Corrugated Box (Small),Packaging,ToolForge Ltd,43,EU,87,147.99,EUR
+ORD-00689,2026-04-02,CUST-0007,Thomas-Slater,SKU-9055,Double-Sided Tape,Adhesives,Bolt Supplies Ltd,27,US,225,130.71,USD
+ORD-00010,2026-08-08,CUST-0299,"Wong, Doyle and Walsh",SKU-7543,Digital Caliper,Tooling,PackRight Ltd,16,EU,71,127.43,EUR
+ORD-00005,2026-02-10,CUST-0283,"Barker, Chapman and James",SKU-5803,Torque Wrench,Tooling,ToolForge Ltd,25,US,296,48.15,USD
+ORD-00488,2026-07-19,CUST-0194,Clarke and Sons,SKU-4614,PCB Relay,Electronics,PackRight Ltd,7,EU,217,156.37,EUR
+ORD-00624,2026-04-23,CUST-0033,Cook Group,SKU-4320,"M6 Bolt, Stainless",Fasteners,AdhesiCo,23,US,416,208.99,USD
+ORD-00003,2026-08-18,CUST-0143,Webb and Sons,SKU-1106,Digital Caliper,Tooling,CircuitSource UK,29,UK,175,69.54,GBP
+ORD-00662,2026-04-24,CUST-0143,Griffiths Group,SKU-4206,PCB Relay,Electronics,Bolt Supplies Ltd,7,EU,276,212.38,EUR
+ORD-00137,2026-02-04,CUST-0241,Hyde and Sons,SKU-8245,Corrugated Box (Small),Packaging,PackRight Ltd,19,US,303,14.14,USD
+ORD-00709,2026-08-28,CUST-0138,Barlow PLC,SKU-9728,Digital Caliper,Tooling,ToolForge Ltd,29,UK,479,141.57,GBP
+ORD-00017,2026-08-20,CUST-0062,Dawson-Smith,SKU-5061,Bubble Wrap Roll,Packaging,CircuitSource UK,6,EU,174,5.36,EUR
+ORD-00337,2026-06-23,CUST-0248,Jarvis-Bolton,SKU-1507,Hex Nut Pack,Fasteners,AdhesiCo,43,UK,85,151.87,GBP
+ORD-00614,2026-09-12,CUST-0077,"Roberts, Ferguson and Mitchell",SKU-1014,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,44,UK,200,66.68,GBP
+ORD-00471,2026-08-06,CUST-0108,"Wood, Jones and Hewitt",SKU-7866,Corrugated Box (Small),Packaging,PackRight Ltd,25,US,438,100.21,USD
+ORD-00739,2026-06-11,CUST-0252,Miller-Williams,SKU-3478,Bubble Wrap Roll,Packaging,ToolForge Ltd,44,UK,326,199.58,GBP
+ORD-00350,2026-03-30,CUST-0142,Horton LLC,SKU-7602,Digital Caliper,Tooling,CircuitSource UK,41,UK,312,170.24,GBP
+ORD-00330,2026-09-07,CUST-0163,Jarvis PLC,SKU-3854,PCB Relay,Electronics,ToolForge Ltd,41,US,403,89.27,USD
+ORD-00679,2026-03-02,CUST-0114,Johnson Inc,SKU-3108,Corrugated Box (Small),Packaging,CircuitSource UK,16,EU,158,31.42,EUR
+ORD-00779,2026-06-26,CUST-0208,Austin-Parker,SKU-4232,Allen Key Set,Tooling,PackRight Ltd,7,US,19,134.4,USD
+ORD-00764,2026-08-02,CUST-0243,"Byrne, Forster and Smith",SKU-2915,M8 Washer,Fasteners,AdhesiCo,41,EU,481,161.58,EUR
+ORD-00464,2026-04-02,CUST-0244,Bartlett-Middleton,SKU-6142,Corrugated Box (Small),Packaging,PackRight Ltd,15,EU,458,143.47,EUR
+ORD-00725,2026-04-13,CUST-0157,Wright Inc,SKU-6140,10k Resistor,Electronics,ToolForge Ltd,7,US,57,39.54,USD
+ORD-00268,2026-07-20,CUST-0059,Wright Group,SKU-6700,Pallet Wrap,Packaging,PackRight Ltd,31,US,317,43.21,USD
+ORD-00651,2026-05-22,CUST-0058,Wilson and Sons,SKU-3424,"M6 Bolt, Stainless",Fasteners,AdhesiCo,11,UK,448,51.14,GBP
+ORD-00351,2026-05-02,CUST-0026,Jones-Smith,SKU-8785,Cyanoacrylate Glue,Adhesives,PackRight Ltd,25,EU,11,84.53,EUR
+ORD-00699,2026-09-11,CUST-0194,"Williams, Burrows and Morris",SKU-6779,M8 Washer,Fasteners,PackRight Ltd,22,US,,7.13,USD
+ORD-00505,2026-09-25,CUST-0035,Adams PLC,SKU-1717,Corrugated Box (Small),Packaging,CircuitSource UK,13,UK,448,7.92,GBP
+ORD-00517,2026-09-07,CUST-0296,Cole and Sons,SKU-2562,Bubble Wrap Roll,Packaging,ToolForge Ltd,43,UK,154,9.44,GBP
+ORD-00626,2026-07-09,CUST-0284,Thomas-Fox,SKU-3703,USB-C Connector,Electronics,AdhesiCo,17,UK,474,145.54,GBP
+ORD-00216,2026-01-02,CUST-0112,Warner-Holmes,SKU-2196,M8 Washer,Fasteners,Bolt Supplies Ltd,29,US,177,175.13,USD
+ORD-00443,2026-05-26,CUST-0044,Harris-Hooper,SKU-4548,Allen Key Set,Tooling,AdhesiCo,40,UK,242,216.84,GBP
+ORD-00287,2026-08-16,CUST-0005,Poole-Davies,SKU-1132,Torque Wrench,Tooling,PackRight Ltd,9,EU,441,105.64,EUR
+ORD-00570,2026-03-15,CUST-0051,Wells PLC,SKU-9456,Digital Caliper,Tooling,CircuitSource UK,15,US,371,9.23,USD
+ORD-00144,2026-02-13,CUST-0159,Miller Inc,SKU-7171,PCB Relay,Electronics,PackRight Ltd,10,EU,344,175.74,EUR
+ORD-00126,2026-08-03,CUST-0233,Gordon and Sons,SKU-6585,Torque Wrench,Tooling,CircuitSource UK,25,US,160,180.43,USD
+ORD-00716,2026-09-26,CUST-0129,Davies Ltd,SKU-9133,Allen Key Set,Tooling,Bolt Supplies Ltd,17,EU,308,30.66,EUR
+ORD-00405,2026-04-13,CUST-0137,Mitchell-Bennett,SKU-3636,Hex Nut Pack,Fasteners,PackRight Ltd,45,UK,129,36.69,GBP
+ORD-00092,2026-08-22,CUST-0008,Wright-Anderson,SKU-3361,Epoxy Resin 50ml,Adhesives,AdhesiCo,43,EU,497,38.67,EUR
+ORD-00308,2026-01-04,CUST-0210,"Evans, Davis and Taylor",SKU-1391,Torque Wrench,Tooling,CircuitSource UK,36,UK,178,159.02,GBP
+ORD-00072,2026-05-10,CUST-0245,Barnett-Hurst,SKU-2869,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,27,UK,252,18.61,GBP
+ORD-00577,2026-06-09,CUST-0171,"Morton, Jones and Thompson",SKU-4246,Double-Sided Tape,Adhesives,ToolForge Ltd,7,US,499,230.7,USD
+ORD-00547,2026-07-31,CUST-0166,Matthews Inc,SKU-8387,Torque Wrench,Tooling,Bolt Supplies Ltd,13,US,233,147.62,USD
+ORD-00166,2026-08-16,CUST-0180,"Baker, Knight and Taylor",SKU-8325,Epoxy Resin 50ml,Adhesives,Bolt Supplies Ltd,24,EU,315,249.54,EUR
+ORD-00047,2026-08-01,CUST-0295,"Warren, Jones and Edwards",SKU-4185,Torque Wrench,Tooling,AdhesiCo,33,US,205,61.07,USD
+ORD-00289,2026-03-15,CUST-0036,"Warren, Bull and Davis",SKU-9691,PCB Relay,Electronics,ToolForge Ltd,2,EU,313,162.54,EUR
+ORD-00523,2026-09-26,CUST-0127,Bradshaw-Jones,SKU-4970,PCB Relay,Electronics,Bolt Supplies Ltd,19,EU,398,107.57,EUR
+ORD-00600,2026-05-12,CUST-0008,"Patel, Bishop and Mason",SKU-2827,Digital Caliper,Tooling,ToolForge Ltd,13,US,466,147.98,USD
+ORD-00218,2026-08-18,CUST-0194,"Richards, Whitehouse and Thornton",SKU-7154,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,45,US,494,165.48,USD
+ORD-00648,2026-04-26,CUST-0165,Alexander Inc,SKU-6778,Allen Key Set,Tooling,PackRight Ltd,34,UK,349,105.79,GBP
+ORD-00360,2026-06-28,CUST-0236,"Howarth, Ford and Wright",SKU-5128,Bubble Wrap Roll,Packaging,CircuitSource UK,31,US,155,169.33,USD
+ORD-00390,2026-07-17,CUST-0077,Smith-White,SKU-1894,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,43,EU,479,39.32,EUR
+ORD-00697,2026-06-05,CUST-0085,Mitchell PLC,SKU-9052,"M6 Bolt, Stainless",Fasteners,AdhesiCo,10,UK,160,178.96,GBP
+ORD-00257,2026-02-05,CUST-0210,Shepherd Inc,SKU-9180,USB-C Connector,Electronics,CircuitSource UK,42,US,156,60.58,USD
+ORD-00613,2026-08-09,CUST-0112,Bell Group,SKU-2740,"M6 Bolt, Stainless",Fasteners,AdhesiCo,18,EU,53,8.81,EUR
+ORD-00280,2026-05-07,CUST-0202,Gardner-Harding,SKU-9019,PCB Relay,Electronics,CircuitSource UK,38,US,324,67.25,USD
+ORD-00494,2026-05-08,CUST-0198,Allen Inc,SKU-8257,Epoxy Resin 50ml,Adhesives,CircuitSource UK,4,UK,102,115.26,GBP
+ORD-00062,2026-09-08,CUST-0055,Norris Group,SKU-8102,Corrugated Box (Small),Packaging,PackRight Ltd,42,US,457,207.19,USD
+ORD-00001,2026-05-21,CUST-0126,Cook-Chandler,SKU-4657,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,8,EU,347,185.19,EUR
+ORD-00172,2026-06-13,CUST-0178,Dale LLC,SKU-2063,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,36,EU,149,222.84,EUR
+ORD-00669,2026-09-10,CUST-0287,Chapman-Hilton,SKU-8593,Pallet Wrap,Packaging,CircuitSource UK,3,US,406,0.71,USD
+ORD-00297,2026-02-10,CUST-0262,Ward-Goodwin,SKU-4329,Corrugated Box (Small),Packaging,CircuitSource UK,36,US,168,97.74,USD
+ORD-00636,2026-08-21,CUST-0092,"Ashton, Turner and Butcher",SKU-7346,10k Resistor,Electronics,PackRight Ltd,10,EU,235,179.98,EUR
+ORD-00243,2026-01-09,CUST-0107,"Vaughan, Smith and Patel",SKU-3362,"M6 Bolt, Stainless",Fasteners,AdhesiCo,6,US,154,40.7,USD
+ORD-00002,2026-01-16,CUST-0048,Whitehead-Thompson,SKU-4582,Digital Caliper,Tooling,CircuitSource UK,34,UK,309,6.73,GBP
+ORD-00043,2026-03-07,CUST-0099,"Davies, Butler and Miller",SKU-7888,Double-Sided Tape,Adhesives,AdhesiCo,45,US,384,225.71,USD
+ORD-00463,2026-06-30,CUST-0265,"Dawson, Mitchell and Lewis",SKU-9776,USB-C Connector,Electronics,Bolt Supplies Ltd,18,US,128,71.89,USD
+ORD-00794,2026-01-24,CUST-0227,Jackson PLC,SKU-5544,Cyanoacrylate Glue,Adhesives,Bolt Supplies Ltd,12,EU,363,6.3,EUR
+ORD-00434,2026-09-21,CUST-0072,Davies-Smith,SKU-8310,Allen Key Set,Tooling,CircuitSource UK,13,UK,290,237.18,GBP
+ORD-00551,2026-04-03,CUST-0061,"Marsh, Barnes and Sutton",SKU-3155,Cyanoacrylate Glue,Adhesives,CircuitSource UK,2,EU,,191.37,EUR
+ORD-00252,2026-06-03,CUST-0248,"Singh, Henderson and Doyle",SKU-2260,Cyanoacrylate Glue,Adhesives,PackRight Ltd,18,US,484,61.72,USD
+ORD-00173,2026-04-25,CUST-0063,Taylor Ltd,SKU-4292,USB-C Connector,Electronics,CircuitSource UK,17,EU,405,123.56,EUR
+ORD-00554,2026-06-28,CUST-0019,"Evans, Hodgson and Davey",SKU-3381,10k Resistor,Electronics,Bolt Supplies Ltd,44,UK,296,209.52,GBP
+ORD-00383,2026-02-21,CUST-0132,Clayton-Slater,SKU-4787,Torque Wrench,Tooling,AdhesiCo,20,EU,136,116.12,EUR
+ORD-00146,2026-03-12,CUST-0080,Price Ltd,SKU-2264,Epoxy Resin 50ml,Adhesives,PackRight Ltd,8,UK,260,192.74,GBP
+ORD-00209,2026-08-17,CUST-0137,Vaughan Ltd,SKU-6400,Bubble Wrap Roll,Packaging,PackRight Ltd,39,UK,371,143.26,GBP
+ORD-00513,2026-07-04,CUST-0232,"Clarke, Jones and Henry",SKU-8331,Allen Key Set,Tooling,AdhesiCo,2,US,372,8.76,USD
+ORD-00652,2026-03-09,CUST-0243,Jones-Moore,SKU-6680,M8 Washer,Fasteners,AdhesiCo,30,US,378,161.21,USD
+ORD-00086,2026-03-20,CUST-0256,Lambert PLC,SKU-5781,M8 Washer,Fasteners,ToolForge Ltd,19,UK,213,208.7,GBP
+ORD-00457,2026-01-18,CUST-0262,Campbell Ltd,SKU-9451,Digital Caliper,Tooling,CircuitSource UK,41,UK,87,168.54,GBP
+ORD-00612,2026-04-02,CUST-0226,Porter Ltd,SKU-2137,M8 Washer,Fasteners,AdhesiCo,14,US,313,98.22,USD
+ORD-00582,2026-07-25,CUST-0212,"Collins, Miller and Griffin",SKU-4908,Pallet Wrap,Packaging,ToolForge Ltd,17,US,281,39.84,USD
+ORD-00312,2026-05-14,CUST-0162,"Todd, Jones and Hancock",SKU-7438,10k Resistor,Electronics,PackRight Ltd,22,US,232,68.06,USD
+ORD-00129,2026-06-07,CUST-0024,Jones-Price,SKU-4612,Digital Caliper,Tooling,AdhesiCo,40,EU,29,2.02,EUR
+ORD-00668,2026-03-12,CUST-0103,"Brown, John and Jones",SKU-4047,Double-Sided Tape,Adhesives,AdhesiCo,20,EU,284,122.7,EUR
+ORD-00569,2026-09-17,CUST-0013,"Chapman, Jones and Khan",SKU-8907,10k Resistor,Electronics,ToolForge Ltd,11,US,98,85.09,USD
+ORD-00782,2026-07-01,CUST-0064,Smith-Howarth,SKU-1782,Pallet Wrap,Packaging,Bolt Supplies Ltd,30,EU,,143.15,EUR
+ORD-00253,2026-08-23,CUST-0055,Naylor-Mitchell,SKU-3219,Allen Key Set,Tooling,PackRight Ltd,2,UK,486,98.98,GBP
+ORD-00104,2026-09-04,CUST-0152,Richards Group,SKU-6549,Corrugated Box (Small),Packaging,Bolt Supplies Ltd,31,US,494,18.92,USD
+ORD-00692,2026-07-27,CUST-0249,"Khan, Davison and Edwards",SKU-9379,Cyanoacrylate Glue,Adhesives,PackRight Ltd,11,US,394,113.71,USD
+ORD-00601,2026-05-14,CUST-0121,Jones-Davies,SKU-8944,Cyanoacrylate Glue,Adhesives,CircuitSource UK,35,UK,442,8.37,GBP
+ORD-00568,2026-08-20,CUST-0155,Owen Ltd,SKU-4541,Epoxy Resin 50ml,Adhesives,ToolForge Ltd,21,US,90,28.15,USD
+ORD-00517,2026-09-07,CUST-0296,Cole and Sons,SKU-2562,Bubble Wrap Roll,Packaging,ToolForge Ltd,43,UK,154,9.44,GBP
+ORD-00020,2026-02-19,CUST-0221,"Palmer, Howe and Franklin",SKU-6804,Epoxy Resin 50ml,Adhesives,AdhesiCo,28,UK,240,215.97,GBP
+ORD-00240,2026-06-03,CUST-0042,Lees Inc,SKU-1519,PCB Relay,Electronics,Bolt Supplies Ltd,27,UK,195,94.35,GBP
+ORD-00649,2026-09-06,CUST-0257,Bibi-Davies,SKU-9629,Bubble Wrap Roll,Packaging,Bolt Supplies Ltd,32,US,364,133.02,USD
+ORD-00418,2026-03-20,CUST-0013,Taylor-Payne,SKU-8523,Double-Sided Tape,Adhesives,PackRight Ltd,4,UK,45,18.4,GBP
+ORD-00030,2026-06-04,CUST-0271,Taylor-Spencer,SKU-1128,Corrugated Box (Small),Packaging,ToolForge Ltd,21,US,478,165.88,USD
+ORD-00496,2026-05-10,CUST-0247,"Charlton, Williams and Holden",SKU-5895,Allen Key Set,Tooling,CircuitSource UK,25,UK,455,13.12,GBP
+ORD-00068,2026-06-26,CUST-0218,George and Sons,SKU-6419,Digital Caliper,Tooling,PackRight Ltd,31,US,139,76.73,USD
+ORD-00417,2026-01-04,CUST-0034,"Jordan, Rogers and Saunders",SKU-4453,"M6 Bolt, Stainless",Fasteners,CircuitSource UK,45,UK,218,208.93,GBP
+ORD-00567,2026-07-19,CUST-0096,"Knight, George and Harding",SKU-2914,Torque Wrench,Tooling,PackRight Ltd,22,EU,364,8.0,EUR
+ORD-00476,2026-06-29,CUST-0102,Graham-Harris,SKU-9821,M8 Washer,Fasteners,CircuitSource UK,20,UK,182,81.34,GBP
+ORD-00326,2026-06-30,CUST-0291,"Jones, Griffin and Fox",SKU-3328,Pallet Wrap,Packaging,ToolForge Ltd,14,UK,429,247.0,GBP
+ORD-00063,2026-09-25,CUST-0139,Robinson and Sons,SKU-9817,Epoxy Resin 50ml,Adhesives,AdhesiCo,31,EU,224,206.45,EUR
+ORD-00276,2026-08-19,CUST-0135,Taylor Ltd,SKU-6711,USB-C Connector,Electronics,Bolt Supplies Ltd,30,UK,444,248.49,GBP
+ORD-00118,2026-06-16,CUST-0196,Graham-Chamberlain,SKU-9692,Allen Key Set,Tooling,PackRight Ltd,31,EU,259,151.4,EUR
