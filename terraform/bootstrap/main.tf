@@ -103,31 +103,25 @@ data "aws_iam_policy_document" "github_actions_permissions" {
   }
 
   statement {
-    sid    = "ManageProjectS3Buckets"
-    effect = "Allow"
-    actions = [
-      "s3:CreateBucket",
-      "s3:DeleteBucket",
-      "s3:GetBucketVersioning",
-      "s3:PutBucketVersioning",
-      "s3:GetEncryptionConfiguration",
-      "s3:PutEncryptionConfiguration",
-      "s3:GetBucketPublicAccessBlock",
-      "s3:PutBucketPublicAccessBlock",
-      "s3:GetBucketTagging",
-      "s3:PutBucketTagging",
-      "s3:GetBucketPolicy",
-      "s3:GetBucketAcl",
-      "s3:ListBucket",
-      "s3:GetObject",
-      "s3:PutObject",
-      "s3:DeleteObject",
-    ]
-    resources = [
-      "arn:aws:s3:::zaki-pipeline-iac-*",
-      "arn:aws:s3:::zaki-pipeline-iac-*/*",
-    ]
-  }
+  sid    = "ManageProjectS3Buckets"
+  effect = "Allow"
+  actions = [
+    "s3:CreateBucket",
+    "s3:DeleteBucket",
+    "s3:PutBucketVersioning",
+    "s3:PutEncryptionConfiguration",
+    "s3:PutBucketPublicAccessBlock",
+    "s3:PutBucketTagging",
+    "s3:Get*",
+    "s3:ListBucket",
+    "s3:PutObject",
+    "s3:DeleteObject",
+  ]
+  resources = [
+    "arn:aws:s3:::zaki-pipeline-iac-*",
+    "arn:aws:s3:::zaki-pipeline-iac-*/*",
+  ]
+}
 
   statement {
     sid    = "ManageGlueResources"
