@@ -4,10 +4,6 @@ An AWS data pipeline that ingests raw sales transaction data, validates and
 cleans it, and makes it queryable — all infrastructure defined in Terraform
 and deployed automatically through GitHub Actions.
 
-This is a standalone rebuild of an earlier hand-deployed pipeline
-(`zaki-batch-pipeline`), redone with two goals: manage every AWS resource as
-code, and deploy it through a CI/CD pipeline with proper environment
-separation instead of manual console clicks.
 
 ## The problem
 
